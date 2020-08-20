@@ -8680,8 +8680,9 @@ resources:
   - General
 - sys:
     id: 3S6ml3MCjM4cMGNDSKTjpf
-  authors: 'A data sharing method in the open web environment: Data sharing in hydrology'
-  title: Jin Wang, Min Chen, Guonian Lü, Songshan Yue, Yongning Wen, Zhenxu Lan, ShuoZhang
+  authors: 'Jin Wang, Min Chen, Guonian Lü, Songshan Yue, Yongning Wen, Zhenxu Lan,
+    ShuoZhang '
+  title: 'A data sharing method in the open web environment: Data sharing in hydrology'
   publication: Journal of Hydrology
   pubDate: !ruby/object:DateTime 2020-08-19 00:00:00.000000000 Z
   url: https://www.sciencedirect.com/science/article/pii/S0022169420304339
