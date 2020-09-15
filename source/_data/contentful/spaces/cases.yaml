@@ -4400,7 +4400,7 @@ datacollaborative:
 - sys:
     id: gYYISTWksvGe0wuqdgHq0
   status: true
-  caseStudy: A1 Telekom Austria Group–Government of Austria Data Sharing
+  caseStudy: A1 Telekom Austria Group-Government of Austria Data Sharing
   sector:
   - Health
   - Humanitarian
@@ -4833,7 +4833,7 @@ datacollaborative:
 - sys:
     id: 2qMNb01HTWwGigZzNH891d
   status: true
-  caseStudy: Statistics Denmark’s Location Data Work
+  caseStudy: Statistics Denmark's Location Data Work
   sector:
   - Health
   sharedBy:
