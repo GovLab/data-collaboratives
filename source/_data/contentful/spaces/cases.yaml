@@ -2796,7 +2796,7 @@ datacollaborative:
   - Observed Personal Data
   - Disclosed Non-Personal Data
   - Observed Non-Personal Data
-  link: http://www.ourbrainbank.com/the-project
+  link: http://www.ourbrainbank.org
   whatDataShared: OurBrainBank contains data drawn from health and symptom records
     of individuals with Glioblastoma. Users log data on their personal experiences
     and symptoms using the OurBrainBank App, which can then be accessed by other app
@@ -5405,6 +5405,53 @@ datacollaborative:
     of an event before its outbreak.” This finding provides a blueprint for data-driven
     prediction tools to improve situational awareness and deliver more accurate forecast
     of natural disasters.
+- sys:
+    id: 32xEktJz3Ry6S7MzfdkAor
+  status: true
+  caseStudy: Airbnb Data Portal
+  sector:
+  - Infrastructure
+  - Security/Public Safety
+  sharedBy:
+  - Airbnb
+  sharedWith:
+  - Local Government Agencies
+  region: Worldwide
+  collaborativeType:
+  - Data Pooling
+  dataSource:
+  - Private
+  link: https://www.bloomberg.com/news/articles/2020-09-23/why-airbnb-launched-a-data-sharing-tool-for-cities?srnd=citylab-government
+  whatDataShared: "Airbnb is piloting an information-sharing platform in 15 cities
+    that it says will help local leaders monitor the effects of the home-sharing giant.
+    \n"
+  howDataShared: 'Each city, including Buffalo, San Francisco and Seattle, will have
+    access to a new data dashboard as well as a dedicated staffer at Airbnb. '
+  purpose: 'The Airbnb City Portal, which launched on Wednesday as a pilot program
+    with 15 global cities and tourism agencies, aims to provide municipal staff with
+    more efficient access to data about listings, including whether or not they’re
+    complying with local laws. The dashboard will also be useful for local tourism
+    officials: It will provide visitor information, including city of origin and demographic
+    information, that helps bureaus better target their advertising and marketing
+    campaigns. '
+- sys:
+    id: 1nKOVwnqfuaBCJk4dX4z5J
+  status: true
+  caseStudy: Mapping the 2019–2020 Australian Bushfires with the Open Data Cube
+  sector:
+  - Environment
+  sharedWith:
+  - Open Data Cube
+  region: East Asia and Pacific
+  collaborativeType:
+  - Research and Analysis Partnerships
+  link: https://towardsdatascience.com/mapping-the-2019-2020-australian-bushfires-with-the-open-data-cube-ec680060bf15
+  whatDataShared: The Open Data Cube Initiative performed an analysis on satellite
+    images provided by Digital Earth Australia to map the Australian fire events in
+    2019-2020. The analysis is based on satellite images "from two months previous
+    and 3 months after a fire event." From this data, the analysts reports that they
+    were able to measure the size of the fire and severity of the impact in less than
+    ten minutes.
 events:
 - sys:
     id: uF3uaikYV2gWsckO8wYO2
@@ -9002,6 +9049,293 @@ resources:
   - Guide
   theme:
   - Operations
+- sys:
+    id: 6rDUThqcTUgHwZbo11eAAB
+  authors: Mara Maretti, Vanessa Russo, & Emiliano del Gobbo
+  title: 'Open data governance: civic hacking movement, topics and opinions in digital
+    space'
+  publication: Quality & Quantity
+  pubDate: !ruby/object:DateTime 2020-10-06 00:00:00.000000000 Z
+  url: https://link.springer.com/article/10.1007/s11135-020-01045-y
+  shortDescription: 'This paper investigates “the communication structure and the
+    governance of open data in the Twitter conversational environment”, highlighting
+    that while there is an Italian open data infrastructure, there are weaknesses
+    in governance and practical reuse of data. '
+  annotation: "Abstract: \n\nThe expression ‘open data’ relates to a system of informative
+    and freely accessible databases that public administrations make generally available
+    online in order to develop an informative network between institutions, enterprises
+    and citizens. On this topic, using the semantic network analysis method, the research
+    aims to investigate the communication structure and the governance of open data
+    in the Twitter conversational environment. In particular, the research questions
+    are: (1) Who are the main actors in the Italian open data infrastructure? (2)
+    What are the main conversation topics online? (3) What are the pros and cons of
+    the development and use (reuse) of open data in Italy? To answer these questions,
+    we went through three research phases: (1) analysing the communication network,
+    we found who are the main influencers; (2) once we found who were the main actors,
+    we analysed the online content in the Twittersphere to detect the semantic areas;
+    (3) then, through an online focus group with the main open data influencers, we
+    explored the characteristics of Italian open data governance. Through the research,
+    it has been shown that: (1) there is an Italian open data governance strategy;
+    (2) the Italian civic hacker community plays an important role as an influencer;
+    but (3) there are weaknesses in governance and in practical reuse."
+  type:
+  - Journal Article
+  theme:
+  - Governance and Operations
+  - General
+- sys:
+    id: 1rcNQHgnRsAWERyiNBumTL
+  authors: Wolfgang Kerber
+  title: From (Horizontal and Sectoral) Data Access Solutions Towards Data Governance
+    Systems
+  publication: University of Marburg - School of Business & Economics
+  pubDate: !ruby/object:DateTime 2020-08-26 00:00:00.000000000 Z
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3681263
+  shortDescription: 'This paper discusses the importance of analysis and regulatory
+    design in re-imagining data governance systems, and proposes potential instruments
+    that can be used within these systems. '
+  annotation: "Abstract: \n\nStarting with the assumption that under certain conditions
+    also mandatory solutions for access to privately held data can be necessary, this
+    paper analyses the legal and regulatory instruments for the implementation of
+    such data access solutions. After an analysis of advantages and problems of horizontal
+    versus sectoral access solutions, the main thesis of this paper is that focusing
+    only on data access solutions is often not enough for achieving the desired positive
+    effects on competition and innovation. An analysis of the two examples access
+    to bank account data (PSD2: Second Payment Service Directive) and access to data
+    of the connected car shows that successful data access solutions might require
+    an entire package of additional complementary regulatory solutions (e.g. regarding
+    interoperability, standardisation, and safety and security), and therefore the
+    analysis and regulatory design of entire data governance systems (based upon an
+    economic market failure analysis). In the last part important instruments that
+    can be used within data governance systems are discussed, like, e.g. data trustee
+    solutions. "
+  type:
+  - Journal Article
+  theme:
+  - General
+  - In Practice
+  - Governance and Operations
+- sys:
+    id: 4lqmorsU5uqpuvCsFr2ktd
+  authors: Jorg Hoffmann and Begona Gonzalaz Otero
+  title: Demystifying the Role of Data Interoperability in the Access and Sharing
+    Debate
+  publication: Max Planck Institute for Innovation & Competition
+  pubDate: !ruby/object:DateTime 2020-10-08 00:00:00.000000000 Z
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3705217
+  shortDescription: 'This paper addresses the lack of understanding in law and policy
+    discourse pertaining to data interoperability, and subsequently, “explains the
+    technical complexity of interoperability and its enablers, namely data standards
+    and application programming interfaces.”
+
+    '
+  annotation: "Abstract: \n\nIn the current data access and sharing debate, data interoperability
+    is widely proclaimed as being key for efficiently reaping the economic welfare
+    enhancing effects of further data re-use. Although, we agree, we found that the
+    current law and policy framework pertaining data interoperability was missing
+    a groundworks analysis. Without a clear understanding of the notions of interoperability,
+    the role of data standards and application programming interfaces (APIs) to achieve
+    this ambition, and the IP and trade secrets protection potentially hindering it,
+    any regulatory analysis within the data access discussion will be incomplete.
+    Any attempt at untangling the role of data interoperability in the access and
+    sharing regimes requires a thorough understanding of the underlying technology
+    and a common understanding of the different notions of data interoperability.
+    The paper firstly explains the technical complexity of interoperability and its
+    enablers, namely data standards and application programming interfaces. It elaborates
+    on the reasons data interoperability counts with different levels and puts emphasis
+    on the fact that data interoperability is indirectly tangled to the data access
+    right. Since data interoperability may be part of the legal obligations correlating
+    to the access right, the scope of interoperability is and has already been subject
+    to courts’ interpretation. While this may give some manoeuvre for balanced decision-making,
+    it may not guarantee the ambition of efficient re-usability of data. This is why
+    data governance market regulation under a public law approach is becoming more
+    favourable. Yet, and this is elaborated in a second step, the paper builds on
+    the assumption that interoperability should not become another policy on its own.
+    This is followed by a competition economics assessment, taking into account that
+    data interoperability is always a matter of degree and a lack of data interoperability
+    does not necessarily lead to a market foreclosure of competitors and to causing
+    harm to consumer welfare. Additionally, parts of application programming interfaces
+    (APIs) may be protected under IP rights and trade secrets, which might conflict
+    with data access rights. Instead of further solving the conflicting regimes within
+    the respective legal regimes of the exclusive rights the paper concludes by suggesting
+    that (sector-specific) data governance solutions should deal with this issue and
+    align the different interests implied. This may provide for better, practical
+    and well-balanced solutions instead of impractical and dysfunctional exceptions
+    and limitations within the IP and trade secrets regimes. "
+  type:
+  - Paper
+  theme:
+  - General
+  - Risks and Challenges
+- sys:
+    id: 3Y8PNHtQ1ZNlw46xLU2Gto
+  authors: Leonardo M. Millefiori, Paolo Braca, Dimitris Zissis, Giannis Spiliopoulos,
+    Stefano Marano, Peter K. Willett, Sandro Carniel
+  title: COVID-19 Impact on Global Maritime Mobility
+  pubDate: !ruby/object:DateTime 2020-09-15 00:00:00.000000000 Z
+  url: https://arxiv.org/abs/2009.06960
+  shortDescription: "This paper analyzes the effects that the COVID-19 pandemic and
+    the containment measures had on the shipping industry using maritime traffic data.
+    \n"
+  annotation: "Abstract: \n\nTo prevent the outbreak of the Coronavirus disease (COVID-19),
+    numerous countries around the world went into lockdown and imposed unprecedented
+    containment measures. These restrictions progressively produced changes to social
+    behavior and global mobility patterns, evidently disrupting social and economic
+    activities. Here, using maritime traffic data, collected via a global network
+    of Automatic Identification System (AIS) receivers, we analyze the effects that
+    the COVID-19 pandemic and the containment measures had on the shipping industry,
+    which accounts alone for more than 80% of the world trade. We introduce the notion
+    of a \"maritime mobility index,\" a synthetic composite index, to quantitatively
+    assess ship mobility in a given unit of time. The mobility index calculation used
+    in this study, has a worldwide extent and is based on the computation of cumulative
+    navigated miles (CNM) of all ships reporting their position and navigational status
+    via AIS. We compare 2020 mobility levels to those of previous years assuming that
+    an unchanged growth rate would have been achieved, if not for COVID-19. Following
+    the outbreak, we find an unprecedented drop in maritime mobility, across all categories
+    of commercial shipping. The reduced activity is observable from March to June,
+    when the most severe restrictions were in force, producing a variation of mobility
+    quantified between -5.62% and -13.77% for container ships, between +2.28% and
+    -3.32% for dry bulk, between -0.22% and -9.27% for wet bulk, and between -19.57%
+    and -42.77% for passenger shipping. The presented study is unprecedented for the
+    uniqueness and completeness of the employed AIS dataset, which comprises a trillion
+    AIS messages broadcast worldwide by 50000 ships, a figure that closely parallels
+    the documented size of the world merchant fleet. "
+  type:
+  - Paper
+  theme:
+  - General
+  - In Practice
+- sys:
+    id: 1o3rvYWMyR3HFNwS68CrA2
+  authors: Barbara Wixom, Ina Sebastian, and Robert Gregory
+  title: 'Data Sharing 2.0: New Data Sharing, New Value Creation'
+  publication: MIT CISR research
+  pubDate: !ruby/object:DateTime 2020-10-15 00:00:00.000000000 Z
+  url: https://cisr.mit.edu/publication/2020_1001_DataSharing_WixomSebastianGregory
+  shortDescription: 'In this paper, MIT CISR Research discuss their findings on interorganizational
+    data sharing; “this briefing introduces three sets of practices—curated content,
+    designated channels, and repeatable controls—that help companies accelerate data
+    sharing 2.0.”
+
+    '
+  annotation: |
+    Abstract
+
+    MIT CISR research has found that interorganizational data sharing is a top concern of companies; leaders often find data sharing costly, slow, and risky. Interorganizational data sharing, however, is requisite for new value creation in the digital economy. Digital opportunities require data sharing 2.0: cross-company sharing of complementary data assets and capabilities, which fills data gaps and allows companies, often collaboratively, to develop innovative solutions. This briefing introduces three sets of practices—curated content, designated channels, and repeatable controls—that help companies accelerate data sharing 2.0.
+  type:
+  - Paper
+  theme:
+  - In Practice
+  - General
+- sys:
+    id: 2IjlKChMdm670MpaiGFOLj
+  authors: Geoff Boeing
+  title: Exploring Urban Form Through Openstreetmap Data
+  publication: 'Urban Experience and Design: Contemporary Perspectives on Improving
+    the Public Realm '
+  pubDate: !ruby/object:DateTime 2020-08-25 00:00:00.000000000 Z
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680845
+  shortDescription: 'OpenStreetMap is a crowd-sourced, worldwide mapping project and
+    geospatial data repository; Boeing discusses how “ubiquitous urban data and computation
+    can open up new urban form analyses from both quantitative and qualitative perspectives.”
+
+    '
+  annotation: "Abstract\n\nThis chapter introduces OpenStreetMap—a crowd-sourced,
+    worldwide mapping project and geospatial data repository—to illustrate its usefulness
+    in quickly and easily analyzing and visualizing planning and design outcomes in
+    the built environment. It demonstrates the OSMnx toolkit for automatically downloading,
+    modeling, analyzing, and visualizing spatial big data from OpenStreetMap. We explore
+    patterns and configurations in street networks and buildings around the world
+    computationally through visualization methods—including figure-ground diagrams
+    and polar histograms—that help compress urban complexity into comprehensible artifacts
+    that reflect the human experience of the built environment. Ubiquitous urban data
+    and computation can open up new urban form analyses from both quantitative and
+    qualitative perspectives. "
+  type:
+  - Journal Article
+  theme:
+  - General
+  - Benefits
+- sys:
+    id: 23fawVRA48vioB9rwpp0s
+  authors: Claudia Wells
+  title: 'A New Normal for Data Collection: Using the Power of Community to Tackle
+    Gender Violence Amid COVID-19'
+  publication: SDG Knowledge Hub
+  pubDate: !ruby/object:DateTime 2020-10-13 00:00:00.000000000 Z
+  url: https://sdg.iisd.org/commentary/guest-articles/a-new-normal-for-data-collection-using-the-power-of-community-to-tackle-gender-violence-amid-covid-19/
+  shortDescription: 'This article discusses the importance of timely, disaggregated,
+    community-level data on gender based violence. “As illustrated by experiences
+    in Nepal, data collected within communities can play a vital role to fill the
+    gaps and ensure that data-informed policies reflect the lived experiences of the
+    most marginalized women and girls.”
+
+    '
+  annotation: |2-
+
+    A shocking increase in violence against women and girls has been reported in many countries during the COVID-19 pandemic, amounting to what UN Women calls a “shadow pandemic.”
+
+    The jarring facts are:
+
+    - Globally 243 million women and girls have been subjected to sexual and/or physical violence by an intimate partner in the past 12 months.
+    - The UNFPA estimates that the pandemic will cause a one-third reduction in progress towards ending gender-based violence by 2030;
+    - UNFPA predicts an additional 15 million cases of gender-based violence for every three months of lockdown.
+    - Official data captures only a fraction of the true prevalence and nature of gender-based violence.
+
+    The response to these new challenges were discussed at a meeting in July with a community-led response delivered through local actors highlighted as key. This means that timely, disaggregated, community-level data on the nature and prevalence of gender-based violence has never been more important. Data collected within communities can play a vital role to fill the gaps and ensure that data-informed policies reflect the lived experiences of the most marginalized women and girls.
+  type:
+  - Magazine Article
+  theme:
+  - In Practice
+  - General
+- sys:
+    id: 3TNpyrtXKhOgDAcS10w2Jh
+  authors: Andreas Backhus
+  title: Common Pitfalls in the Interpretation of COVID-19 Data and Statistics
+  publication: Intereconomics
+  url: https://www.intereconomics.eu/contents/year/2020/number/3/article/common-pitfalls-in-the-interpretation-of-covid-19-data-and-statistics.html#footnote-001
+  shortDescription: 'Though the supply of data has increased since the beginning of
+    the pandemic, “a number of pitfalls have arisen with regard to the interpretation
+    of the data and the conclusions that can be drawn from them.” The paper seeks
+    to highlight these pitfalls to inform the future course of policy action. '
+  annotation: |-
+    Policymakers, experts and the general public heavily rely on the data that are being reported in the context of the coronavirus pandemic. Daily data releases on confirmed COVID-19 cases and deaths provide information on the course of the pandemic. The same data are also essential for the estimation of indicators such as the reproduction rate and for the evaluation of policy interventions that seek to slow down the pandemic.
+
+    Together with the proliferation of data, however, a number of pitfalls have arisen with regard to the interpretation of the data and the conclusions that can be drawn from them. The aim of this paper is to highlight the most common among these pitfalls given that they have the potential to intentionally or unintentionally mislead the public debate and thereby the course of future policy actions.
+
+    The list of pitfalls presented is non-exhaustive. In fact, as the supply of data has increased since the beginning of the pandemic, new pitfalls have emerged in parallel, while others have decreased in relevance; a tendency that seems likely to continue into the future. Beyond explaining some of the current pitfalls, this paper will serve as a more general caveat regarding the interpretation of data in the context of the SARS-CoV-2 pandemic.
+  type:
+  - Paper
+  theme:
+  - General
+  - Risks and Challenges
+- sys:
+    id: 7pHoOYP41nenJjtogKteRK
+  authors: " Rebecca Root"
+  title: Poor data on groundwater jeopardizes climate resilience, report says
+  publication: Devex
+  pubDate: !ruby/object:DateTime 2020-10-21 00:00:00.000000000 Z
+  url: https://www.devex.com/news/poor-data-on-groundwater-jeopardizes-climate-resilience-report-says-98354
+  shortDescription: The report outlines recommendations for “improved collaboration
+    between government agencies and other institutions involved with groundwater data
+    collection, alongside the development of more accessible databases and increased
+    awareness of existing data.”
+  annotation: "Excerpt - \n\n\"A lack of data on groundwater is impeding water management
+    and could jeopardize climate resilience efforts in some places, according to recent
+    research by WaterAid and the HSBC Water Programme.\n\nGroundwater is found underground
+    in gaps between soil, sand, and rock. Over 2.5 million people are thought to depend
+    on groundwater — which has a higher tolerance to droughts than other water sources
+    — for drinking.\n\nThe report looked at groundwater security and sustainability
+    in Bangladesh, Ghana, India, Nepal, and Nigeria, where collectively more than
+    160 million people lack access to clean water close to home. It found that groundwater
+    data tends to be limited — including on issues such as overextraction, pollution,
+    and contamination — leaving little evidence for decision-makers to consider for
+    its management.\""
+  type:
+  - Magazine Article
+  theme:
+  - In Practice
+  - General
 projects:
 - sys:
     id: 4qXwV2Dbi8IOO8CO6uGCuK
