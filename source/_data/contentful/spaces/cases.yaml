@@ -5602,19 +5602,24 @@ datacollaborative:
   - Health
   sharedBy:
   - Private Sector
-  - Healthcare Industry
+  - Healthcare
   sharedWith:
   - Research
+  - Academia
   region: North America
   collaborativeType:
   - Trusted Intermediary
   dataType:
   - Disclosed Personal Data
+  - Observed Personal Data
   link: https://vivli.org/
-  whatDataShared: 'Vivli is an independent non-profit that has developed a global
-    data-sharing and analytics platform, to share participant-level data from completed
-    clinical trials to serve the international research community. Vivli remains independent
-    of data contributors, users, and the wider community. '
+  whatDataShared: Vivli is a global data-sharing and analytics platform, which aggregates
+    participant-level data from completed clinical trials, to share with the international
+    research community. Vivli evolved from a project of The Multi-Regional Clinical
+    Trials Center of Brigham and Women’s Hospital and Harvard (MRCT Center), to improve
+    access to clinical trial data and encourage data sharing and transparency. The
+    platform includes an independent data repository and search engine. Vivli remains
+    independent of data contributors, data users, and the broader research community.
 - sys:
     id: 5ujTWwNcrfkPcir3q3OPMa
   status: true
@@ -5661,6 +5666,315 @@ datacollaborative:
     to researchers for the purpose of scientific discovery about "life-threatening
     diseases such as cancer, heart disease, and stroke, to fundamentally improve public
     health."
+- sys:
+    id: Sk7A2qISx0Ck05JWCw0Du
+  status: false
+  caseStudy: Idaho Health Data Exchange
+  sector:
+  - Health
+  sharedBy:
+  - Hospitals
+  - Healthcare Providers
+  sharedWith:
+  - Research
+  - General public
+  region: North America
+  collaborativeType:
+  - Trusted Intermediary
+  dataType:
+  - Disclosed Personal Data
+  link: https://www.idahohde.org/
+  whatDataShared: 'Idaho Health Data Exchange (IHDE) facilitates data-sharing of patient
+    data between participating healthcare providers across the US. Through collaboration,
+    IDHE aims to facilitate the provision of improved and better coordinated healthcare
+    services in Idaho. IHDE currently has four models of connecting participants:
+    clinical portal access, inbound interface, outbound interface, and bi-directional
+    interface. The clinical portal access allows participants to manually search for
+    data records with the information specific to organizations not included in this
+    model. Inbound interface allows for patient records to be delivered from a participating
+    organization''s electronic medical records(EMR) / electronic health records (EHR)
+    to the IHDE. Information specific to organizations would be included in the patient''s
+    records but not transmitted out onto the EMR/EHR. The outbound interface model
+    delivers patient records to the participating organization''s EMR/EHR platform
+    from the IHDE platform. In this model, information on the patients will not be
+    transmitted out on to IHDE''s platforn. Finally, the bi-directional interface
+    delivers patient records from a participating organization''s EMR/EHR system to
+    the IHDE portal, and the organization''s EMR/EHR system receives patient record
+    from the IHDE. '
+- sys:
+    id: 4W4O70z2yjbaJ3HSripL2X
+  caseStudy: MIDATA
+  sector:
+  - Health
+  sharedBy:
+  - General Public
+  sharedWith:
+  - Research
+  region: Worldwide
+  collaborativeType:
+  - Trusted Intermediary
+  dataType:
+  - Disclosed Personal Data
+  link: https://www.midata.coop/en/home/
+  whatDataShared: MIDATA collects and stores personal health data of users, allowing
+    them to participate in app-based research projects and benefit from app-based
+    services. Owners MIDATA data accounts may actively contribute to medical research
+    and clinical studies by granting selective access to their personal data. Current
+    projects include research on COVID-19, multiple sclerosis and pollen allergies.
+- sys:
+    id: 3LtOanT7pt27kOrtHDyJnh
+  caseStudy: OurDataHelps
+  sector:
+  - Health
+  sharedBy:
+  - General Public
+  sharedWith:
+  - Research
+  region: North America
+  collaborativeType:
+  - Research and Analysis Partnerships
+  dataType:
+  - Disclosed Personal Data
+  link: https://ourdatahelps.org/
+  whatDataShared: OurDataHelps collects personal data donated by users which is then
+    provided to scientists and researchers to further scientific understanding of
+    mental and emotional health. This includes social media data, fitness trackers,
+    and wearable sensor data. Through the collection and analysis of data on mental
+    and emotional health, OurDataHelps aims to develop a system that would support
+    those with lived experiences of suicide, suicide loss survivors, their families
+    and communities, as well as mental health experts working on preventing suicide.
+- sys:
+    id: 1dVAi0ROp32Xtocjq1HvTQ
+  caseStudy: The Genomic Data Commons (GDC)
+  sector:
+  - Health
+  sharedBy:
+  - Researchers
+  - Healthcare Industry
+  sharedWith:
+  - Research
+  region: North America
+  collaborativeType:
+  - Trusted Intermediary
+  - Research and Analysis Partnerships
+  dataType:
+  - Disclosed Personal Data
+  link: https://gdc.cancer.gov/
+  whatDataShared: The NCI's Genomic Data Commons (GDC) provides the cancer research
+    community with a unified data repository that enables data sharing across cancer
+    genomic studies in support of precision medicine. The GDC provides researchers
+    with access to standardized clinical and genomic data from cancer studies to enable
+    exploratory analysis that cannot be considered definitive for outcomes.
+- sys:
+    id: 2a6sWkIcq6veFcltM3XPXX
+  caseStudy: All of Us Research Program
+  sector:
+  - Health
+  sharedBy:
+  - General Public
+  sharedWith:
+  - Research
+  region: North America
+  collaborativeType:
+  - Research and Analysis Partnerships
+  dataType:
+  - Disclosed Personal Data
+  link: https://allofus.nih.gov/
+  whatDataShared: Part of the National Institutes of Health, The All of Us Research
+    Program gathers health data from over one million people living in the United
+    States to accelerate research that may improve healthcare and disease prevention,
+    and was created by a mix of academic instituions, health care organizations, community
+    partners, and others. Individuals can sign up to contribute their data through
+    the platform, and researchers can sign up to access program data online through
+    the Research Hub.
+- sys:
+    id: 3cUnexK7piDziAlwZxV1nZ
+  caseStudy: BC Generations Project
+  sector:
+  - Health
+  sharedBy:
+  - General Public
+  sharedWith:
+  - Research
+  region: North America
+  collaborativeType:
+  - Research and Analysis Partnerships
+  dataType:
+  - Disclosed Personal Data
+  link: https://www.bcgenerationsproject.ca/
+  whatDataShared: 'The BC Generations follows a cohort of nearly 30,000 participants
+    in British Columbia, Canada who volunteer their health information and biological
+    samples to help researchers learn more about how environment, lifestyle and genes
+    contribute to cancer and other chronic diseases. This initiative is part of the
+    Canadian Partnership for Tomorrow’s Health; the project also studies five other
+    regions: Alberta, Manitoba, Ontario, Quebec and Atlantic Canada. By combining
+    this dataset with other across the country, researchers will be able to identify
+    disease patterns with relatively rare diseases or rare exposures.'
+- sys:
+    id: 5PDgetkaXPzEZIKuSIhhOQ
+  caseStudy: Princeton’s Eviction Lab
+  sector:
+  - Social Inclusion
+  sharedBy:
+  - Public Administration
+  sharedWith:
+  - General Public
+  region: North America
+  collaborativeType:
+  - Public Interfaces
+  dataType:
+  - Observed Non-Personal Data
+  link: https://evictionlab.org/
+  whatDataShared: The Eviction Lab has built a database on evictions in the United
+    States to inform citizens on how many evictions are happening in their communities.
+    The collected data is comprised of formal eviction records from 48 states and
+    the District of Columbia. The database is publicly accessible and can be processed
+    through maps, charts, and reports.
+- sys:
+    id: 7IEAc5zXcHwDog8Ou6rzq0
+  caseStudy: 'Newcastle Urban Observatory '
+  sector:
+  - Infrastructure
+  - Environment
+  sharedBy:
+  - Data from public smart devices in Newcastle
+  sharedWith:
+  - General Public
+  region: Europe and Central Asia
+  collaborativeType:
+  - Public Interfaces
+  - Data Pooling
+  dataType:
+  - Observed Non-Personal Data
+  link: https://urbanobservatory.ac.uk/
+  whatDataShared: 'The Newcastle Urban Observatory, led by the Newcastle University
+    in the United Kingdom, holds an extensive collection of open urban sensing data.
+    The Observatory monitors several urban indicators through active sensor streams
+    and CCTV cameras. It provides real-time and historical datasets for traffic, vehicle
+    statistics, weather, air quality, water quality, noise detection, pedestrian count,
+    and many other urban indicators. The data collected by the Observatory can be
+    used for various urban planning activities, including flood preparedness assessments,
+    air quality management, and measures aimed at responding to the COVID-19 pandemic. '
+- sys:
+    id: 1shjtsgrYCxw4dlAvcVZNG
+  caseStudy: Cranfield Urban Observatory
+  sector:
+  - Infrastructure
+  - Environment
+  sharedBy:
+  - Environmental and infrastructure sensors in Cranfield
+  sharedWith:
+  - Research
+  region: Europe and Central Asia
+  collaborativeType:
+  - Trusted Intermediary
+  dataType:
+  - Observed Personal Data
+  - Observed Non-Personal Data
+  link: https://www.cranfield.ac.uk/facilities/urban-observatory#
+  whatDataShared: The Cranfield Urban Observatory, led by Cranfield Universiy in the
+    United Kingdom, harnesses sensor technology to collect city-wide data on environmental
+    and infrastructure related indicators, including air and noise pollution, customer
+    satisfaction and water usage. The data collected by the Observatory can be used
+    by domain experts and decision makers to view and compare infrastructure and environmental
+    indicators across communities to facilitate the development of healthy and sustainable
+    environments. Data can be accessed by contacting the faculty who are leading the
+    Observatory.
+- sys:
+    id: 6OTTdoDLSYBSgtONayYIRJ
+  caseStudy: Birmingham Urban Observatory
+  sector:
+  - Infrastructure
+  - Environment
+  sharedBy:
+  - Heterogeneous sensors in Birmingham
+  sharedWith:
+  - General Public
+  region: Europe and Central Asia
+  collaborativeType:
+  - Public Interfaces
+  - Data Pooling
+  dataType:
+  - Observed Non-Personal Data
+  link: https://data.birminghamurbanobservatory.com/map/platforms
+  whatDataShared: The Birmingham Urban Observatory, led by the University of Birmingham
+    in the United Kingdom, curates data extracted from heterogeneous sensors deployed
+    across Birmingham and makes the data accessible to the general public through
+    an interactive user interface. The Observatory processes data on air, soil, and
+    grass surface temperatures; solar radiation; urban traffic; and other relevant
+    urban indicators. This data supports informed decision-making and assists experts
+    in identifying, as well as addressing urban challenges.
+- sys:
+    id: 6DKXTNKTne59J7qGRPkJ9u
+  caseStudy: Manchester Urban Observatory
+  sector:
+  - Infrastructure
+  - Environment
+  sharedBy:
+  - Environmental and infrastructure sensors in Manchester
+  sharedWith:
+  - General Public
+  region: Europe and Central Asia
+  collaborativeType:
+  - Public Interfaces
+  dataType:
+  - Observed Non-Personal Data
+  link: https://www.urbanobservatory.manchester.ac.uk/
+  whatDataShared: The Manchester Urban Observatory (MUO), led by the University of
+    Manchester in the United Kingdom, harnesses data from urban sensors relating to
+    environment and infrastructure. The Observatory presents its data in a publicly
+    available dashboard, which currently hosts data from projects related to traffic,
+    pedestrians, air quality, and water levels. The MUO is currently involved in a
+    variety of projects that strive towards more environmentally sustainable urban
+    environments, including research on air quality in schools, forecasting NO2, and
+    pollen detection.
+- sys:
+    id: 2d6Wmgx6HkY34jF74a4j4Y
+  caseStudy: JoinData
+  sector:
+  - Agriculture/Food
+  sharedBy:
+  - Private Sector
+  - Agriculture Industry
+  sharedWith:
+  - Private Sector
+  - Agriculture Industry
+  region: Europe and Central Asia
+  collaborativeType:
+  - Trusted Intermediary
+  dataType:
+  - Disclosed Non-Personal Data
+  link: https://join-data.nl/en/
+  whatDataShared: JoinData is a Netherlands-based non-profit cooperative which provides
+    a platform for farmers to safely upload agricultural data and be in charge of
+    who sees and repurposes it. The JoinData cooperative is a collaboration between
+    Agrifirm, CRV, EDI-Circle, FrieslandCampina, Rabo Frontier Ventures and LTO Nederland.
+    Farmers can use this platform and drive insight from shared data for business
+    management, innovation, and long-term planning.
+- sys:
+    id: 3llSpAYIQzzv6FIOTE0I1l
+  caseStudy: DjustConnect
+  sector:
+  - Agriculture/Food
+  sharedBy:
+  - Private Sector
+  - Agriculture Industry
+  sharedWith:
+  - Private Sector
+  - Agriculture Industry
+  region: Europe and Central Asia
+  collaborativeType:
+  - Trusted Intermediary
+  dataType:
+  - Disclosed Non-Personal Data
+  link: https://djustconnect.be/en/how-does-it-work
+  whatDataShared: DjustConnect is a Belgium-based platform which facilitates safe
+    data transport between data providers and data consumers in the Agri-Food sector.
+    The platform was jointly launched by Flanders Research Institute for Agriculture
+    and Fisheries and Food, together with AVEVE, Boerenbond, CRV, DGZ and Milcobel.
+    DjustConnect gives farmers and horticulturalists a safe platform to control the
+    sharing and access of their data. This data can in turn be used by third-parties
+    to improve services and products or to develop new digital products.
 events:
 - sys:
     id: uF3uaikYV2gWsckO8wYO2
