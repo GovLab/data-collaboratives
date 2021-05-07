@@ -5975,6 +5975,117 @@ datacollaborative:
     DjustConnect gives farmers and horticulturalists a safe platform to control the
     sharing and access of their data. This data can in turn be used by third-parties
     to improve services and products or to develop new digital products.
+- sys:
+    id: 4tsNYCcD2iIPBjRp8TTgeP
+  caseStudy: LBRY
+  sector:
+  - other
+  sharedBy:
+  - General Public
+  sharedWith:
+  - General Public
+  region: Worldwide
+  collaborativeType:
+  - Data Pooling
+  dataType:
+  - Disclosed Non-Personal Data
+  link: https://lbry.com/
+  whatDataShared: LBRY is a community-driven and open source protocol that allows
+    users to build apps and interact with digital content on its network. LBRY uses
+    blockchain to enable its community members to create databases that are owned
+    by the users themselves. The protocol allows users to publish content, including
+    videos, audio files, and documents, set a price per stream or download, or to
+    share their content for free.
+- sys:
+    id: 2jBYCbihJhSd2EnrijdoaW
+  caseStudy: dOrg.tech
+  sector:
+  - other
+  sharedBy:
+  - Private Sector
+  sharedWith:
+  - Private Sector
+  region: North America
+  collaborativeType:
+  - Data Pooling
+  dataType:
+  - Disclosed Non-Personal Data
+  link: https://dorg.tech/#/about
+  whatDataShared: dOrg is a decentralized autonomous organization that uses blockchain
+    technology in an attempt to develop and advance Web3, a decentralized internet.
+    A decentralized internet brings with it previously impossible levels of security,
+    privacy, and data ownership to those who use it.
+- sys:
+    id: 5v4QoVgVJJuFUVR9hhkI7R
+  caseStudy: Mnemotix
+  sector:
+  - other
+  sharedBy:
+  - Private Sector
+  sharedWith:
+  - Private Sector
+  region: Europe and Central Asia
+  collaborativeType:
+  - Research and Analysis Partnerships
+  - Data Pooling
+  dataType:
+  - Disclosed Non-Personal Data
+  link: https://www.mnemotix.com
+  whatDataShared: 'Mnemotix is a cooperative start-up that allows users to create
+    a common software while sharing costs, allowing for more effective and sustainable
+    digital collaboration. Mnemotix provides a range of services, from data storage
+    to visualization, and supports users in structuring, decompartmentalizing, and
+    linking their data. '
+- sys:
+    id: 30DffKvehStSxw74jWpN2O
+  caseStudy: Polypoly
+  sector:
+  - other
+  sharedBy:
+  - General Public
+  sharedWith:
+  - Private Sector
+  region: Europe and Central Asia
+  collaborativeType:
+  - Trusted Intermediary
+  dataType:
+  - Disclosed Personal Data
+  - Disclosed Non-Personal Data
+  link: https://polypoly.coop/en-de/
+  whatDataShared: 'Polypoly coop provides users with a private server that stores
+    their data, allowing them to decide who can use it and for what purpose. Users
+    can download the polyPod, an open source code app, on their devices to secure
+    their personal data and ensure that it does not leave their devices without their
+    consent. The polyPod allows users to reclaim their personal data from other companies
+    and provides the infrastructure for its further applications. If desired, users
+    can also obtain revenue from their data through selective leasing to private sector
+    partners. '
+- sys:
+    id: 47nKAtggFeMWX2FDCdqcIz
+  status: true
+  caseStudy: OpenSAFELY
+  sector:
+  - Health
+  sharedBy:
+  - Healthcare Providers
+  sharedWith:
+  - Researchers
+  - Healthcare Industry
+  region: Europe and Central Asia
+  collaborativeType:
+  - Trusted Intermediary
+  - Research and Analysis Partnerships
+  dataType:
+  - Disclosed Personal Data
+  link: https://opensafely.org/
+  whatDataShared: 'OpenSAFELY is a secure analytics platform for electronic health
+    records (EHR) in the UK’s National Health Service, to efficiently share health
+    records and results from patients during the Covid-19 pandemic. It delivers analyses
+    of over 58 million patients’ pseudonymised primary care NHS records; all data
+    analysis is conducted inside secure environments of participating EHR software
+    companies. This data collaboration is spearheaded by the DataLab at the University
+    of Oxford, the EHR group at the London School of Hygiene and Tropical Medicine,
+    and other EHR software companies. '
 events:
 - sys:
     id: uF3uaikYV2gWsckO8wYO2
@@ -10287,64 +10398,6 @@ resources:
   - General
   - Risks and Challenges
 - sys:
-    id: 4U0S1bfqkdDa7aq6dCp5aA
-  authors: Social science research coucil
-  title: 'Surveillance and the ‘New Normal’ of Covid-19: Public Health, Data, and
-    Justice'
-  publication: Social science research coucil
-  pubDate: !ruby/object:DateTime 2021-01-01 00:00:00.000000000 Z
-  url: https://ssrc-static.s3.amazonaws.com/SSRC_PHSHR_Covid19_Report_022421.pdf?utm_source=Digest&utm_campaign=56c1475315-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_d90a01c7ff-56c1475315-87819641
-  shortDescription: 'In this report the Social Science Research Council considers
-    surveillance systems that have continued to persist a year into a global pandemic
-    – “how [societies] answer these questions will have long-term impacts on civil
-    liberties, governance, and the role of technology in society.”
-
-    '
-  annotation: "Excerpt: \n\n\"The world marks one year of the Covid-19 pandemic with
-    both hope and apprehension. New coro- navirus variants threaten to undo the halting
-    progress of the past year, while new vaccines raise the prospect of an end to
-    the crisis. Yet even when the pandemic does subside, we must reckon with the fact
-    that the society that emerges will be profoundly different than the one that came
-    before it. In myriad ways, daily life as we know it will have been fundamentally,
-    and permanently, transformed.\nIn an effort to document, contextualize, and understand
-    the impacts of the pandemic as they un- folded, in April 2020, the Social Science
-    Research Council launched the Virtual Research Center on Covid-19. This multifaceted
-    initiative is an effort to bring this knowledge of the social sciences to bear
-    on the various changes that have been prompted or hastened by the pandemic. \""
-  type:
-  - Paper
-  theme:
-  - In Practice
-  - General
-- sys:
-    id: 78jRoov2IiiGYikuA0spFr
-  authors: David Van Dijcke, Austin L.Wright
-  title: 'Profiling Insurrection: Characterizing Collective Action Using Mobile Device
-    Data'
-  publication: University of Michigan, Ann Arbor, University of Chicago - Harris School
-    of Public Policy
-  pubDate: !ruby/object:DateTime 2021-02-01 00:00:00.000000000 Z
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3776854
-  shortDescription: 'Profiling Insurrection: Characterizing Collective Action Using
-    Mobile Device Data by David Van Dijcke and Austin L. Wright discusses “a novel
-    approach for estimating spatially dispersed community-level participation in mass
-    protest.” The study uses location data from over 40 million mobile devices, finding
-    that “that partisanship, socio-political isolation, proximity to chapters of the
-    Proud Boys organization, and the local activity on Parler are robustly associated
-    with protest participation.”'
-  annotation: |-
-    Excerpt:
-
-    ""The world marks one year of the Covid-19 pandemic with both hope and apprehension. New coro- navirus variants threaten to undo the halting progress of the past year, while new vaccines raise the prospect of an end to the crisis. Yet even when the pandemic does subside, we must reckon with the fact that the society that emerges will be profoundly different than the one that came before it. In myriad ways, daily life as we know it will have been fundamentally, and permanently, transformed.
-    In an effort to document, contextualize, and understand the impacts of the pandemic as they un- folded, in April 2020, the Social Science Research Council launched the Virtual Research Center on Covid-19. This multifaceted initiative is an effort to bring this knowledge of the social sciences to bear on the various changes that have been prompted or hastened by the pandemic."
-  type:
-  - Paper
-  - Journal Article
-  theme:
-  - Data Responsibility
-  - In Practice
-  - General
-- sys:
     id: 3cELFoXvWZYRAgEnolDICT
   authors: Inge Graef, Jens PrüferI
   title: 'Governance of Data Sharing: a Law & Economics Proposal'
@@ -10967,6 +11020,324 @@ resources:
   - Blog Post
   theme:
   - General
+- sys:
+    id: 775cQ9mjOO0lgBuUEhwODu
+  authors: Claudio Scardovi
+  title: '"Sustainable Cities Big Data, Artificial Intelligence and the Rise of Green,
+    “Cy-phy” Cities"'
+  publication: Springer International Publishing
+  pubDate: !ruby/object:DateTime 2021-04-01 00:00:00.000000000 Z
+  url: https://www.springer.com/us/book/9783030684372?utm_source=Digest&utm_campaign=2ee95c3cc8-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_d90a01c7ff-2ee95c3cc8-87819641#aboutBook
+  shortDescription: "\"This book presents the need to re-imagine the future of cities
+    and move beyond “smart city” strategies: “Global cities are facing an almost unprecedented
+    challenge of change. As they re-emerge from the Covid 19 pandemic and get ready
+    to face climate change and other [threats] they need to look for new ways to support
+    wealth and wellbeing creation – leveraging Big Data and AI and suing them into
+    their physical reality and to become greener, more inclusive and resilient, hence
+    sustainable.”"
+  annotation: |-
+    Abstract:
+
+    Global cities are facing an almost unprecedented challenge of change. As they re-emerge from the Covid 19 pandemic and get ready to face climate change and other, potentially existential threats, they need to look for new ways to support wealth and wellbeing creation – leveraging Big Data and AI and suing them into their physical reality and to become greener, more inclusive and resilient, hence sustainable.
+
+    This book describes how new digital technologies could be used to design digital and physical twins of cities that are able to feed into each other to optimize their working and ability to create new wealth and wellbeing. The book also describes how to increase cities’ social and economic resilience during crisis time and addressing their almost fatal weaknesses – as it became all too obvious during the recent COVID 19 crisis. Also, the book presents a framework for a critical discussion of the concept of “smart-city”, suggesting its development into a “cyber” and “meta” one – meaning, not only digital systems can allow physical ones (e.g. cities, citizens, households and companies) to become “smarter”, but also the vice versa is true, as off line data and real life behaviours can support the optimization and development of virtual brains as a sum of big data and artificial intelligence apps all sitting “over the cloud”.
+    An analysis of the fundamental dynamics of this emerging “info-telligence” economy, and of the potential role of big digital players like Amazon, Google and Facebook is then paving the way to discuss a few strategic forays on how traditional sectors such as financial services, real estate, TMT or health could also evolve, leveraging Big Data and AI in a cyber-physical integrated setting. Finally, a number of thought provoking use cases that could be designed around individuals, and to improve the success and the resilience of households and companies living and working in urban areas are discussed, as an example of one of the most exciting future markets to come: the one of global, sustainable cities.
+  type:
+  - Book
+  theme:
+  - Benefits
+  - In Practice
+- sys:
+    id: 4aSv59uGFZPPryCIt1eXR6
+  authors: Secretariat of the Internet & Jurisdiction Policy Network
+  title: 'We Need to Talk About Data: Framing the Debate Around the Free Flow of Data
+    and Data Sovereignty.'
+  publication: 'We Need to Talk About Data: Framing the Debate Around the Free Flow
+    of Data and Data Sovereignty.'
+  pubDate: !ruby/object:DateTime 2021-03-31 00:00:00.000000000 Z
+  url: https://www.internetjurisdiction.net/news/aboutdata-report?utm_source=Digest&utm_campaign=2ee95c3cc8-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_d90a01c7ff-2ee95c3cc8-87819641
+  shortDescription: This report discusses the importance of standardizing common terminology
+    in the data ecosystem, and “offers key recommendations on how to move forward
+    to foster a collaborative discussion on how to organize our common datasphere.”
+  type:
+  - Report
+  theme:
+  - Data Responsibility
+  - General
+- sys:
+    id: mH079vWxguQSrEZIbfeCs
+  authors: Filippo Candela, Paolo Mulassano
+  title: 'Using Open Data to Monitor the Status of a Metropolitan Area: The Case of
+    the Metropolitan Area of Turin'
+  publication: 'Using Open Data to Monitor the Status of a Metropolitan Area: The
+    Case of the Metropolitan Area of Turin'
+  pubDate: !ruby/object:DateTime 2021-04-01 00:00:00.000000000 Z
+  url: https://search.proquest.com/openview/5b4b5323c86b1c3477f2b4f0561a2d98/1.pdf?pq-origsite=gscholar&cbl=3912324
+  shortDescription: This paper “presents and discusses the method adopted by Compagnia
+    di San Paolo, one of the largest European philanthropic institutions, to monitor
+    the advancement, despite the COVID-19 situation, in providing specific input to
+    the decision-making process for dedicated projects.”
+  annotation: |-
+    Abstract:
+
+    The paper presents and discusses the method adopted by Compagnia di San Paolo, one of the largest European philanthropic institutions, to monitor the advancement, despite the COVID-19 situation, in providing specific input to the decision-making process for dedicated projects. An innovative approach based on the use of daily open data was adopted to monitor the metropolitan area with a multidimensional perspective. Several open data indicators related to the economy, society, culture, environment, and climate were identified and incorporated into the decision support system
+    dashboard. Indicators are presented and discussed to highlight how open data could be integrated into the foundation’s strategic approach and potentially replicated on a large scale by local institutions. Moreover, starting from the lessons learned from this experience, the paper analyzes the opportunities and critical issues surrounding the use of open data, not only to improve the quality of life during the COVID-19 epidemic but also for the effective regulation of society, the participation of citizens, and their well-being.
+  type:
+  - Paper
+  theme:
+  - In Practice
+  - Operations
+  - General
+- sys:
+    id: 22AL6a0PIUOtE7XbtcAu2z
+  authors: German Federal Ministry of Justice and Consumer Protection, Max Planck
+    Institute for Innovation and Competition
+  title: German Federal Ministry of Justice and Consumer Protection, Max Planck Institute
+    for Innovation and Competition
+  pubDate: !ruby/object:DateTime 2021-04-01 00:00:00.000000000 Z
+  url: https://www.nomos-elibrary.de/10.5771/9783748924999/data-access-consumer-interests-and-public-welfare?utm_source=Digest&utm_campaign=2ee95c3cc8-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_d90a01c7ff-2ee95c3cc8-87819641
+  shortDescription: 'This book explores new data access rules for future legislation:
+    “the contributions first explain the justification for such rules from an economic
+    and more general policy perspective. Then, building on the constitutional foundations
+    and existing access regimes, they explore the potential of various fields of the
+    law (competition and contract law, data protection and consumer law, sector-specific
+    regulation) as a basis for the future legal framework.”
+
+    '
+  annotation: |-
+    Abstract:
+
+    Data are considered to be key for the functioning of the data economy as well as for pursuing multiple public interest concerns. Against this backdrop this book strives to device new data access rules for future legislation. To do so, the contributions first explain the justification for such rules from an economic and more general policy perspective. Then, building on the constitutional foundations and existing access regimes, they explore the potential of various fields of the law (competition and contract law, data protection and consumer law, sector-specific regulation) as a basis for the future legal framework. The book also addresses the need to coordinate data access rules with intellectual property rights and to integrate these rules as one of multiple measures in larger data governance systems. Finally, the book discusses the enforcement of the Government’s interest in using privately held data as well as potential data access rights of the users of connected devices. The authors Prof. Dr. Josef Drexl, LL.M. (UC Berkeley); Prof. Dr. Thomas Fetzer, LL.M. (Vanderbilt); Prof. Dr. Michael Grünberger, , LL.M. (NYU); Jörg Hoffmann; Prof. Dr. Ruth Janal, LL.M. (New South Wales); Prof. Dr. Wolfgang Kerber; Christine Lambrecht; Prof. Dr. Matthias Leistner, LL.M. (Cambridge); Bertin Martens, Ph.D.; Prof. Dr. Axel Metzger, LL.M. (Harvard); Christian Reimsbach-Kounatze; Dr. Heiko Richter, LL.M. (Columbia); Prof. Dr. Heike Schweitzer, LL.M. (Yale); Prof. Dr. Louisa Specht-Riemenschneider; Prof. Dr. Indra Spiecker gen. Döhmann, LL.M. (Georgetown Univ.) und Robert Welker.
+  type:
+  - Book
+  theme:
+  - Data Responsibility
+  - General
+  - Governance and Operations
+- sys:
+    id: 4WlYjTIATJXHJGEdz6A8uO
+  authors: International Organization for Labor Migration
+  title: 'Leave No Migrant Behind: The 2030 Agenda and Data Disaggregation'
+  pubDate: !ruby/object:DateTime 2021-04-16 00:00:00.000000000 Z
+  url: https://reliefweb.int/report/world/leave-no-migrant-behind-2030-agenda-and-data-disaggregation?utm_source=Digest&utm_campaign=4d3f6fce15-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_d90a01c7ff-4d3f6fce15-87819641
+  shortDescription: 'The International Organization for Migration (IOM) published
+    Leave No Migrant Behind: The 2030 Agenda and Data Disaggregation, a guide to help
+    promote migrant-inclusive data practices for those working to achieve Sustainable
+    Development Goals. “To date, disaggregation of global development data by migratory
+    status remains low. Migrants are largely invisible in official SDG data. As the
+    global community approaches 2030, very little is known about the impact of the
+    2030 Agenda on migrants.”'
+  type:
+  - Guide
+  theme:
+  - Data Responsibility
+  - In Practice
+- sys:
+    id: 1flQGHc07Blv6BBaQWJ0yu
+  authors: Angelina Fisher and Thomas Streinz
+  title: 'Confronting Data Inequality '
+  publication: World Development Report 2021 background paper
+  pubDate: !ruby/object:DateTime 2021-04-15 00:00:00.000000000 Z
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3825724
+  shortDescription: This paper argues “that data inequality is a function of unequal
+    control over the infrastructures that generate, shape, process, store, transfer,
+    and use data. Existing law often regulates data as an object to be transferred,
+    protected, and shared and is not always attuned to the salience of infrastructural
+    control over data.”
+  annotation: |-
+    Abstract:
+
+    Data conveys significant social, economic, and political power. Unequal control over data — a pervasive form of digital inequality — is a problem for economic development, human agency, and collective self-determination that needs to be addressed. This paper takes some steps in this direction by analyzing the extent to which law facilitates unequal control over data and by suggesting ways in which legal interventions might lead to more equal control over data. By unequal control over data, we not only mean having or not having data, but also having or not having power over deciding what becomes and what does not become data. We call this the power to datafy. We argue that data inequality is in turn a function of unequal control over the infrastructures that generate, shape, process, store, transfer, and use data. Existing law often regulates data as an object to be transferred, protected, and shared and is not always attuned to the salience of infrastructural control over data. While there are no easy solutions to the variegated causes and consequences of data inequality, we suggest that retaining flexibility to experiment with different approaches, reclaiming infrastructural control, systematically demanding enhanced transparency, pooling of data and bargaining power, and differentiated and conditional access to data mechanisms may help in confronting data inequality more effectively going forward.
+  type:
+  - Paper
+  theme:
+  - General
+- sys:
+    id: RRPepuhxLK6zW8CSHIwSd
+  authors: Sun-ha Hong
+  title: 'Control Creep: When the Data Always Travels, So Do the Harms'
+  publication: Centre for International Governance Innovation
+  pubDate: !ruby/object:DateTime 2021-04-12 00:00:00.000000000 Z
+  url: https://www.cigionline.org/articles/control-creep-when-data-always-travels-so-do-harms
+  shortDescription: 'This essay explores the idea of control creep, which entails:
+    “data-driven technologies [being] pitched for a particular context and purpose,
+    but quickly expand[ing] into new forms of control. Although we often think about
+    data use in terms of trade-offs or bargains, such frameworks can be deeply misleading.”'
+  annotation: "Excerpt: \n\nThe data always travels, creating new possibilities for
+    judging and predicting human lives. We might call it control creep: data-driven
+    technologies tend to be pitched for a particular context and purpose, but quickly
+    expand into new forms of control. Although we often think about data use in terms
+    of trade-offs or bargains, such frameworks can be deeply misleading. What does
+    it mean to “trade” personal data for the convenience of, say, an Amazon Echo,
+    when the other side of that trade is constantly arranging new ways to sell and
+    use that data in ways we cannot anticipate? As technology scholars Jake Goldenfein,
+    Ben Green and Salomé Viljoen argue, the familiar trade-off of “privacy vs. X”
+    rarely results in full respect for both values but instead tends to normalize
+    a further stripping of privacy."
+  type:
+  - Essay
+  theme:
+  - Governance and Operations
+  - General
+- sys:
+    id: 66Obzau4uk9e8HidhZDnAT
+  authors: Archita Misra
+  title: Advancing data literacy in the post-pandemic world
+  publication: PARIS21
+  pubDate: !ruby/object:DateTime 2021-03-24 00:00:00.000000000 Z
+  url: https://paris21.org/news-center/news/new-paper-advancing-data-literacy-post-pandemic-world
+  shortDescription: This paper “presents a few insights with key elements of the literature
+    on data literacy, and then covers common practices of implementing data literacy
+    programmes. It concludes by sharing some takeaways that emerged out of this stock-taking
+    exercise and proposes a few questions to spur further dialogue and discussion”
+  annotation: "Abstract: \n\nThe COVID-19 crisis presents a monumental opportunity
+    to engender a widespread data culture in our societies. Since early 2020, the
+    emergence of popular data sites like Worldometer2 have promoted interest and attention
+    in data-driven tracking of the pandemic. “R values”, “flattening the curve” and
+    “exponential increase” have seeped into everyday lexicon. Social media and news
+    outlets have filled the public consciousness with trends, rankings and graphs
+    throughout multiple waves of COVID-19.\n\nYet, the crisis also reveals a critical
+    lack of data literacy amongst citizens in many parts of the world. The lack of
+    a data literate culture predates the pandemic. The supply of statistics and information
+    has significantly outpaced the ability of lay citizens to make informed choices
+    about their lives in the digital data age.\n\nToday’s fragmented datafied information
+    landscape is also susceptible to the pitfalls of misinformation, post-truth politics
+    and societal polarisation – all of which demand a critical thinking lens towards
+    data. There is an urgent need to develop data literacy at the level of citizens,
+    organisations and society – such that all actors are empowered to navigate the
+    complexity of modern data ecosystems.\n\nThe paper identifies three key take-aways.
+    It is crucial to\n\n- forge a common language around data literacy\n- adopt a
+    demand-driven approach and participatory approach to doing data literacy\n- move
+    from ad-hoc programming towards sustained policy, investment and impact\n"
+  type:
+  - Paper
+  theme:
+  - General
+  - In Practice
+- sys:
+    id: 2gWOs87FNANOnnkeFhB9Br
+  authors: Beatriz Botero Arcila
+  title: The Case for Local Data Sharing Ordinances
+  publication: William & Mary Bill of Rights Journal, Forthcoming
+  pubDate: !ruby/object:DateTime 2021-04-09 00:00:00.000000000 Z
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3817894
+  shortDescription: This paper argues that there is a way in which local governments
+    and other non-private sector stakeholders can access data from technology companies,
+    “without harming the legitimate privacy interests of both individuals and companies.”
+  annotation: |-
+    Abstract:
+
+    Cities in the US have started to enact data-sharing rules and programs to access some of the data that technology companies operating under their jurisdiction – like short-term rental or ride hailing companies - collect. This information allows cities to adapt too to the challenges and benefits of the digital information economy. It allows them to understand what their impact is on congestion, the housing market, the local job market and even the use of public spaces. It also empowers them to act accordingly by, for example, setting vehicle caps or mandating a tailored minimum pay for gig-workers. These companies, however, sometimes argue that sharing this information attempts against their users’ privacy rights and their privacy rights, because this information is theirs; it’s part of their business records. The question is thus what those rights are, and whether it should and could be possible for local governments to access that information to advance equity and sustainability, without harming the legitimate privacy interests of both individuals and companies. This Article argues that within current Fourth Amendment doctrine and privacy law there is space for data-sharing programs. Privacy law, however, is being mobilized to alter the distribution of power and welfare between local governments, companies, and citizens within current digital information capitalism to extend those rights beyond their fair share and preempt permissible data-sharing requests. The Article warns that if the companies succeed in their challenges, privacy law will have helped shield corporate power from regulatory oversight, while still leaving individuals largely unprotected and submitting local governments further to corporate interests.
+  type:
+  - Paper
+  theme:
+  - General
+  - Benefits
+- sys:
+    id: wYGp2lEBcTjgMy3QanLBl
+  authors: Yusuke Inoue, Masako Okamoto, Takanori Fujita, Seiichiro Yamamoto, Takafumi
+    Ochiai
+  title: 'Resetting Data Governance: Authorized Public Purpose Access and Society
+    Criteria for Implementation of APPA Principles'
+  publication: World Economic Forum
+  pubDate: !ruby/object:DateTime 2021-04-23 00:00:00.000000000 Z
+  url: https://www.weforum.org/whitepapers/resetting-data-governance-authorized-public-purpose-access-and-society-criteria-for-implementation-of-appa-principles
+  shortDescription: This white paper proposes a practical approach to implementing
+    APPA – “a new data governance model that aims to strike a balance between individual
+    rights and the interests of data holders and the public interest” – to support
+    organizations and governments achieve public goals through data use.
+  annotation: "\"Abstract: \n\n\"In January 2020, our first publication presented
+    Authorized Public Purpose Access (APPA), a new data governance model that aims
+    to strike a balance between individual rights and the interests of data holders
+    and the public interest. It is proposed that the use of personal data for public-health
+    purposes, including fighting pandemics, be subject to appropriate and balanced
+    governance mechanisms such as those set out the APPA approach. The same approach
+    could be extended to the use of data for non-medical public-interest purposes,
+    such as achieving the United Nations Sustainable Development Goals (SDGs). This
+    publication proposes a systematic approach to implementing APPA and to pursuing
+    public-interest goals through data use. The approach values practicality, broad
+    social agreement on appropriate goals and methods, and the valid interests of
+    all stakeholders.\""
+  type:
+  - Report
+  theme:
+  - In Practice
+- sys:
+    id: 1YyP0ste3fKYyO4sX9LrJi
+  authors: Paris 21 and the Mo Ibrahim Foundation
+  title: Bridging the Data-Policy Gap in Africa
+  pubDate: !ruby/object:DateTime 2021-04-01 00:00:00.000000000 Z
+  url: https://mcusercontent.com/e3ad8097ecf1a36cabd12a3fb/files/5661f488-fd7b-4bbd-879d-4f06b4adb9c6/Data_Policy_Gap_Africa_FINAL.pdf?utm_source=Digest&utm_campaign=c7224451f2-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_d90a01c7ff-c7224451f2-87819641
+  shortDescription: This working paper explores the role that accurate national statistics
+    play in designing policies that sufficiently address the needs of citizens and
+    hold governments accountable. It provides “recommendations to national and statistical
+    offices and governments to enhance the production and use of data for evidence-based
+    policymaking.”
+  type:
+  - Report
+  theme:
+  - Data Responsibility
+  - Governance and Operations
+- sys:
+    id: 78Ms2pjfxk73elAgImBR0O
+  authors: Grant Fleming, Peter C. Bruce
+  title: Responsible Data Science
+  publication: Wiley
+  pubDate: !ruby/object:DateTime 2021-04-30 00:00:00.000000000 Z
+  url: https://www.wiley.com/en-us/Responsible+Data+Science-p-9781119741640?utm_source=Digest&utm_campaign=38f167ee82-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_d90a01c7ff-38f167ee82-87819641
+  shortDescription: 'Responsible Data Science explores prevalent ethical issues in
+    data science and “delivers a comprehensive, practical treatment of how to implement
+    data science solutions in an even-handed and ethical manner that minimizes the
+    risk of undue harm to vulnerable members of society.”
+
+    '
+  annotation: "Description: \n\nThe increasing popularity of data science has resulted
+    in numerous well-publicized cases of bias, injustice, and discrimination. The
+    widespread deployment of “Black box” algorithms that are difficult or impossible
+    to understand and explain, even for their developers, is a primary source of these
+    unanticipated harms, making modern techniques and methods for manipulating large
+    data sets seem sinister, even dangerous. When put in the hands of authoritarian
+    governments, these algorithms have enabled suppression of political dissent and
+    persecution of minorities. To prevent these harms, data scientists everywhere
+    must come to understand how the algorithms that they build and deploy may harm
+    certain groups or be unfair.\n\nResponsible Data Science delivers a comprehensive,
+    practical treatment of how to implement data science solutions in an even-handed
+    and ethical manner that minimizes the risk of undue harm to vulnerable members
+    of society. Both data science practitioners and managers of analytics teams will
+    learn how to:\n\n- Improve model transparency, even for black box models\n- Diagnose
+    bias and unfairness within models using multiple metrics\n- Audit projects to
+    ensure fairness and minimize the possibility of unintended harm\n\nPerfect for
+    data science practitioners, Responsible Data Science will also earn a spot on
+    the bookshelves of technically inclined managers, software developers, and statisticians."
+  type:
+  - Book
+  theme:
+  - In Practice
+  - Risks and Challenges
+- sys:
+    id: 6TLFuXUp6yB8IaBIFHPmAM
+  authors: " Dominik Rozkrut, Olga Świerkot-Strużewska, and Gemma Van Halderen"
+  title: Mapping the United Nations Fundamental Principles of Official Statistics
+    against new and big data sources
+  publication: IOS Press
+  pubDate: !ruby/object:DateTime 2021-03-22 00:00:00.000000000 Z
+  url: https://content.iospress.com/articles/statistical-journal-of-the-iaos/sji210789?utm_source=Digest&utm_campaign=38f167ee82-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_d90a01c7ff-38f167ee82-87819641
+  shortDescription: 'This paper describes the UN Fundamental Principles for Official
+    Statistics in relation to 8 new data sources, arguing that “these data sources
+    should be used if National Statistical Systems are to adhere to the first Fundamental
+    Principle of compiling and making available official statistics that honor citizen’s
+    entitlement to public”
+
+    '
+  annotation: |-
+    Abstract:
+
+    "Never has there been a more exciting time to be an official statistician. The data revolution is responding to the demands of the CoVID-19 pandemic and a complex sustainable development agenda to improve how data is produced and used, to close data gaps to prevent discrimination, to build capacity and data literacy, to modernize data collection systems and to liberate data to promote transparency and accountability. But can all data be liberated in the production and communication of official statistics? This paper explores the UN Fundamental Principles of Official Statistics in the context of eight new and big data sources. The paper concludes each data source can be used for the production of official statistics in adherence with the Fundamental Principles and argues these data sources should be used if National Statistical Systems are to adhere to the first Fundamental Principle of compiling and making available official statistics that honor citizen’s entitlement to public information."
+  type:
+  - Paper
+  theme:
+  - Risks and Challenges
+  - Data Responsibility
 projects:
 - sys:
     id: 4qXwV2Dbi8IOO8CO6uGCuK
