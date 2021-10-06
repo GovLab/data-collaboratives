@@ -3373,7 +3373,7 @@ datacollaborative:
   - Open Mobility Foundation
   sharedWith:
   - Transportation Tools Developers
-  region: North America
+  region: Worldwide
   collaborativeType:
   - Public Interfaces
   - Trusted Intermediary
@@ -6086,6 +6086,220 @@ datacollaborative:
     companies. This data collaboration is spearheaded by the DataLab at the University
     of Oxford, the EHR group at the London School of Hygiene and Tropical Medicine,
     and other EHR software companies. '
+- sys:
+    id: 6Acq4TN6nLwoN0PUrH1YZb
+  caseStudy: HestiaLabs
+  sector:
+  - other
+  sharedBy:
+  - General Public
+  - Private Sector
+  sharedWith:
+  - Research
+  - Private Sector
+  region: Worldwide
+  collaborativeType:
+  - Trusted Intermediary
+  - Research and Analysis Partnerships
+  - Data Pooling
+  dataType:
+  - Disclosed Personal Data
+  link: https://hestialabs.org/en/
+  whatDataShared: 'HestiaLabs supports individuals and organizations wishing to engage
+    in projects involving the use of personal data, free of charge. A current project
+    that HestiaLabs is engaged in, seeks to analyze how personal data is used in dating
+    applications and how it affects interactions between users. '
+- sys:
+    id: 4zzRUAVxLHx48VTBqUR0Go
+  caseStudy: MIMIC
+  sector:
+  - Health
+  sharedBy:
+  - Healthcare Providers
+  sharedWith:
+  - Researchers
+  - Healthcare Industry
+  region: North America
+  collaborativeType:
+  - Trusted Intermediary
+  dataType:
+  - Disclosed Personal Data
+  link: https://mimic.mit.edu/
+  whatDataShared: 'MIMIC (‘Medical Information Mart for Intensive Care’) is a relational
+    database that contains information regarding the stay of patients admitted to
+    a tertiary academic medical center in Boston, Massachusetts, USA. MIMIC-IV contains
+    complete information on the hospital stay of each patient: laboratory measurements,
+    medications used, vital signs, etc. The database is designed to support various
+    research in the field of healthcare. While the data is de-identified, it contains
+    detailed patient care information. Therefore, to obtain access to the data, researchers
+    seeking to use it must complete a training course in human subjects research and
+    sign a data use agreement.'
+- sys:
+    id: 3wrRPJFQ1SAMC72uAxGeB7
+  caseStudy: Mission:data
+  sector:
+  - other
+  sharedBy:
+  - General Public
+  - Private Sector
+  - Energy Industry
+  sharedWith:
+  - General Public
+  region: North America
+  collaborativeType:
+  - Trusted Intermediary
+  dataType:
+  - Disclosed Non-Personal Data
+  link: http://www.missiondata.io/
+  whatDataShared: Mission:data is a US coalition of 30+ technology companies that
+    provide consumers with access to their own energy use and cost data in a convenient
+    format. This includes both the data from the utility website and real-time data
+    directly from smart meters. Empowering users with accessible data regarding their
+    energy comsumption can support users in reducing costs and energy spending.
+- sys:
+    id: 6FWFo7zJw7QBBBlJBt3wTs
+  caseStudy: Data for Good Platform (DfG)
+  sector:
+  - other
+  sharedBy:
+  - General Public
+  - Private Sector
+  sharedWith:
+  - Private Sector
+  region: Europe and Central Asia
+  collaborativeType:
+  - Trusted Intermediary
+  - Data Pooling
+  dataType:
+  - Disclosed Personal Data
+  - Disclosed Non-Personal Data
+  link: https://dataforgoodfoundation.com/en/
+  whatDataShared: 'The Data for Good (DfG) platform allows citizens to take control
+    of their data through a GDPR compliant consent-component and a Personal Online
+    Data Store. Activating data across silos alows for it to create greater value
+    for individuals, communities, researchers, and private companies. The data provided
+    to companies and institutions is uninterpreted anonymous data. '
+- sys:
+    id: atDDAdrWklDJAjJox6gFU
+  caseStudy: The Public Utility Data Liberation (PUDL) Project
+  sector:
+  - other
+  sharedBy:
+  - Energy Data
+  - Public Sector
+  sharedWith:
+  - General Public
+  region: North America
+  collaborativeType:
+  - Public Interfaces
+  dataType:
+  - Disclosed Non-Personal Data
+  link: https://catalyst.coop/pudl/
+  whatDataShared: 'The Public Utility Data Liberation (PUDL) project processes publicly
+    available utility data and makes it usable for the broader population by standardizing
+    it and cross-linking it with different sources. This allows a broader variety
+    of stakeholders, such as data journalists and climate change activists, to quantitatively
+    participate in electricity regulation and climate policy discussions at the local,
+    state, and federal levels. '
+- sys:
+    id: 4gkc9CRCl8IrsCyMBnx8cR
+  caseStudy: Weople
+  sector:
+  - other
+  sharedBy:
+  - General Public
+  - Private Sector
+  sharedWith:
+  - General Public
+  - Private Sector
+  region: Europe and Central Asia
+  collaborativeType:
+  - Trusted Intermediary
+  dataType:
+  - Disclosed Personal Data
+  - Disclosed Non-Personal Data
+  link: https://weople.space/en/
+  whatDataShared: 'Weople is a personal data deposit bank where users can store data
+    from their social media accounds, e-commerce records, and data held by Google
+    and Apple. The data is stored in a vault, and is masked and anonymised. Users
+    can benefit from their data by receiving up to 90% of the value generated from
+    its investment. '
+- sys:
+    id: 2a2qtot3zIJcX6BEsA4gQK
+  caseStudy: Grower's Information Service Cooperative (GISC)
+  sector:
+  - Agriculture/Food
+  sharedBy:
+  - Private Sector
+  - Agriculture Industry
+  sharedWith:
+  - Private Sector
+  - Agriculture Industry
+  region: Worldwide
+  collaborativeType:
+  - Trusted Intermediary
+  - Data Pooling
+  - Research and Analysis Partnerships
+  dataType:
+  - Observed Non-Personal Data
+  link: https://www.gisc.coop/
+  whatDataShared: 'The Grower''s Information Service Cooperative (GISC) is a farmer
+    owned national data cooperative that provides producers worldwide with digital
+    data tools obtained through strategic partnerships. By being a part of GISC, producers
+    can maximize their production and efficiency by having access to premier weather
+    and data analytic platforms. Producers can also benchmark their operational data
+    with other members of GISC, allowing them to make the best decisions for their
+    business. '
+- sys:
+    id: 7bmWDFezc0ZqXs5n4zv0PA
+  status: true
+  caseStudy: Subak
+  sector:
+  - Environment
+  sharedBy:
+  - Private Sector
+  sharedWith:
+  - Researcher
+  - Non-profits
+  region: Europe and Central Asia
+  collaborativeType:
+  - Public Interfaces
+  - Data Pooling
+  dataType:
+  - Observed Non-Personal Data
+  link: https://climatesubak.org/
+  whatDataShared: 'Subak believes that open data is a key driver of innovation. However,
+    too often in the climate sector, valuable insights remain siloed within organisations.
+    Climate data is opaque, messy and locked away. They are looking to change that.
+    Subak is building a data cooperative: a source of truth on climate data, to make
+    data connected, searchable and trusted to help accelerate the impact of climate
+    nonprofits.'
+- sys:
+    id: 3hQ5tiHBJJp3y4X4uXzJHM
+  status: true
+  caseStudy: Data for Good Foundation
+  sector:
+  - Environment
+  sharedBy:
+  - Private Sector
+  sharedWith:
+  - Researcher
+  - Non-profits
+  region: Europe and Central Asia
+  collaborativeType:
+  - Public Interfaces
+  - Data Pooling
+  dataType:
+  - Observed Non-Personal Data
+  link: https://dataforgoodfoundation.com/en/what-why
+  whatDataShared: '"Data for Good has a vision to provide each citizen with better
+    quality of life as well as the society and companies increase productivity and
+    profitability. We wish to ensure each citizen the right to control over their
+    own data, while enabling the many valuable data are translated into value-added
+    knowledge in an ethically responsible and safe environment – as well commercially
+    as the societal perspective. Data for Good is a foundation with charitable purposes.
+    The fund construction ensures citizen control and privacy, and the citizen will
+    have access to unique data not previously available."'
 events:
 - sys:
     id: uF3uaikYV2gWsckO8wYO2
@@ -11338,6 +11552,301 @@ resources:
   theme:
   - Risks and Challenges
   - Data Responsibility
+- sys:
+    id: 5YWszKp3q4AieUuzTV8ESn
+  authors: Christopher Kuner, Lee A. Bygrave, Christopher Docksey, Laura Drechsler,
+    Luca Tosoni
+  title: 'The EU General Data Protection Regulation: A Commentary/Update of Selected
+    Articles'
+  publication: SSRN
+  pubDate: !ruby/object:DateTime 2021-05-10 00:00:00.000000000 Z
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3839645
+  shortDescription: 'This paper “provides an update for selected articles of the GDPR
+    Commentary published in 2020 by Oxford University Press [...] It also includes
+    two appendices that cover the same period as the rest of this update: the first
+    deals with judgments of the European courts and some selected judgments of particular
+    importance from national courts, and the second with EDPB papers.”'
+  annotation: 'Abstract: This document provides an update for selected articles of
+    the GDPR Commentary published in 2020 by Oxford University Press. It covers developments
+    between the last date of coverage of the Commentary (1 August 2019) and 1 January
+    2021 (with a few exceptions when later developments are taken into account). Edited
+    by Christopher Kuner, Lee A. Bygrave, Chris Docksey, Laura Drechsler, and Luca
+    Tosoni, it covers 49 articles of the GDPR, and is being made freely accessible
+    with the kind permission of Oxford University Press. It also includes two appendices
+    that cover the same period as the rest of this update: the first deals with judgments
+    of the European courts and some selected judgments of particular importance from
+    national courts, and the second with EDPB papers. Full reference to it should
+    be made if it is quoted from or paraphrased, as follows: C. Kuner, L.A. Bygrave
+    and C. Docksey (eds.), The EU General Data Protection Regulation (GDPR): A Commentary
+    – 2021 Update (OUP 2021).'
+  type:
+  - Paper
+  theme:
+  - General
+  - Governance and Operations
+- sys:
+    id: 4P4ouRcZWbEY7O1zoF8sMy
+  authors: Kath Albury, Amir Aryani, Jane Farmer, James Kelly, Anthony McCosker, Sandun
+    S. Silva, Julie Tucket, Jihoon Woo
+  title: 'Data for Good Collaboration: research report'
+  publication: Swiburne Research Bank
+  pubDate: !ruby/object:DateTime 2021-05-01 00:00:00.000000000 Z
+  url: https://researchbank.swinburne.edu.au/items/bbd7fa31-3c51-4f9b-93d8-e75f99065c00/1/?utm_source=Digest&utm_campaign=345e0eae33-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_d90a01c7ff-345e0eae33-87819641
+  shortDescription: 'This report presents findings from the Swimburne Research bank''s
+    partnership with Lord Mayor’s Charitable Foundation, Entertainment Assist, Good
+    Cycles and Yooralla Disability Services. “The project had two aims: [1] Build
+    organisational data capacity through knowledge sharing about data literacy, expertise
+    and collaboration [2] Deliver data insights through a methodology of collaborative
+    data analytics”'
+  type:
+  - Report
+  theme:
+  - In Practice
+- sys:
+    id: 2xBjBgeNs9hydXYiVHMF06
+  authors: Sarah Giest, Jose M. Miotto, and Wessel Kraaji
+  title: Sarah Giest, Jose M. Miotto, and Wessel Kraaji
+  publication: 'Data & Policy '
+  pubDate: !ruby/object:DateTime 2021-05-18 00:00:00.000000000 Z
+  url: https://www.cambridge.org/core/journals/data-and-policy/article/value-of-data-matching-for-public-poverty-initiatives-a-local-voucher-program-example/52E0F9EEAC47F5C47DDACC107B1B8D8A
+  shortDescription: This paper describes challenges to the data-driven analyses of
+    existing poverty programs, feeding “into the discourse on how to operationalize
+    and design data matching work in the multidimensional space of poverty and nonmonetary
+    government initiatives.”
+  annotation: "Abstract: \n\n\"The recent surge of data-driven methods in social policy
+    have created new opportunities to assess existing poverty programs. The expectation
+    is that the combination of advanced methods and more data can calculate the effectiveness
+    of public interventions more accurately and tailor local initiatives accordingly.
+    Specifically, nonmonetary indicators are increasingly being measured at micro
+    levels in order to target social exclusion in combination with poverty. However,
+    the multidimensional character of poverty, local context, and data matching pose
+    challenges to data-driven analyses. By linking Dutch household-level data with
+    policy-initiative-specific data at local level, we present an explorative study
+    on the uptake of a local poverty pass. The goal is to unravel pass usage in terms
+    of household income and location as well as the age of users. We find that income
+    and age play a role in whether the pass is used, and usage differs per neighborhood.
+    With this, the paper feeds into the discourse on how to operationalize and design
+    data matching work in the multidimensional space of poverty and nonmonetary government
+    initiatives.\""
+  type:
+  - Paper
+  theme:
+  - In Practice
+- sys:
+    id: 1TidIBWQyUtTQnaLBZCrRP
+  authors: Land Portal
+  title: Land Portal
+  pubDate: !ruby/object:DateTime 2021-05-01 00:00:00.000000000 Z
+  url: https://www.cambridge.org/core/journals/data-and-policy/article/value-of-data-matching-for-public-poverty-initiatives-a-local-voucher-program-example/52E0F9EEAC47F5C47DDACC107B1B8D8A
+  shortDescription: The report is "a resource aimed to be used by governments from
+    developing countries to collect and release land-related data to improve data
+    quality, availability, accessibility and use for improved citizen engagement,
+    decision making and innovation.”
+  type:
+  - Report
+  theme:
+  - In Practice
+  - General
+  - Data Responsibility
+- sys:
+    id: 4U942pmXjqKM1VvlE3iie0
+  authors: Jasmina Byrne, Emma Day and Linda Raftree
+  title: 'The Case for Better Governance of Children''s Data: A Manifesto'
+  publication: UNICEF
+  pubDate: !ruby/object:DateTime 2021-05-01 00:00:00.000000000 Z
+  url: https://www.unicef.org/globalinsight/reports/better-governance-childrens-data-manifesto
+  shortDescription: This report calls for a new governance model to ensure “that children’s
+    rights are given due weight in data governance legal frameworks and processes
+    as they evolve around the world.”
+  annotation: |-
+    From text:
+
+    "Every child is different, with unique identities and their capacities and circumstances evolve over their lifecycle. Children are more vulnerable than adults and are less able to understand the long-term implications of consenting to their data collection. For these reasons, children’s data deserve to be treated differently.
+
+    While responsible data use can underpin many benefits for children, ensuring that children are protected, empowered and granted control of their data is still a challenge.
+
+    To maximise the benefits of data use for children and to protect them from harm requires a new model of data governance that is fitting for the 21st century.
+
+    UNICEF has worked with 17 global experts to develop a Manifesto that articulates a vision for a better approach to children’s data.
+
+    This Manifesto includes key action points and a call for a governance model purposefully designed to deliver on the needs and rights of children. It is the first step in ensuring that children’s rights are given due weight in data governance legal frameworks and processes as they evolve around the world."
+  type:
+  - Report
+  theme:
+  - Governance and Operations
+  - General
+  - Data Responsibility
+- sys:
+    id: 7bhv91vYqmXcasCgUGQdIv
+  authors: Jennifer Viberg Johansson, Nisha Shah, Eik Haraldsdottir, Heidi Beate Bentzen,
+    Sarah Coy, Jane Kaye, Deborah Mascalzoni, Jorien Veldwijk
+  title: 'Governance mechanisms for sharing of health data: An appraoch towards selecting
+    attributes for complex discrete choice experiment studies'
+  publication: Technology in Society
+  pubDate: !ruby/object:DateTime 2021-08-01 00:00:00.000000000 Z
+  url: https://www.sciencedirect.com/science/article/pii/S0160791X21001007?utm_source=Digest&utm_campaign=be8ac6fd64-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_d90a01c7ff-be8ac6fd64-87819641
+  shortDescription: This paper describes “the process of identifying attributes for
+    a study aiming to elicit preferences of citizens in Sweden, Iceland and the UK
+    for governance mechanisms for digitally sharing different kinds of health data
+    in different contexts.”
+  annotation: |-
+    Abstract
+
+    Background
+    Discrete Choice Experiment (DCE) is a well-established technique to elicit individual preferences, but it has rarely been used to elicit governance preferences for health data sharing.
+
+    Objectives
+    The aim of this article was to describe the process of identifying attributes for a DCE study aiming to elicit preferences of citizens in Sweden, Iceland and the UK for governance mechanisms for digitally sharing different kinds of health data in different contexts.
+
+    Methods
+    A three-step approach was utilised to inform the attribute and level selection: 1) Attribute identification, 2) Attribute development and 3) Attribute refinement. First, we developed an initial set of potential attributes from a literature review and a workshop with experts. To further develop attributes, focus group discussions with citizens (n = 13), ranking exercises among focus group participants (n = 48) and expert interviews (n = 18) were performed. Thereafter, attributes were refined using group discussion (n = 3) with experts as well as cognitive interviews with citizens (n = 11).
+
+    Results
+    The results led to the selection of seven attributes for further development: 1) level of identification, 2) the purpose of data use, 3) type of information, 4) consent, 5) new data user, 6) collector and 7) the oversight of data sharing. Differences were found between countries regarding the order of top three attributes. The process outlined participants’ conceptualisation of the chosen attributes, and what we learned for our attribute development phase.
+
+    Conclusions
+    This study demonstrates a process for selection of attributes for a (multi-country) DCE involving three stages: Attribute identification, Attribute development and Attribute refinement. This study can contribute to improve the ethical aspects and good practice of this phase in DCE studies. Specifically, it can contribute to the development of governance mechanisms in the digital world, where people's health data are shared for multiple purposes.
+  type:
+  - Paper
+  theme:
+  - General
+  - In Practice
+- sys:
+    id: 5Om5RdervhFZIpddJ7IKWW
+  authors: Marcela Escobari, Ian Seyal, and Carlos Daboin Contreras
+  title: 'Moving up: Promoting workers'' upward mobility using network analysis '
+  publication: Brookings
+  pubDate: !ruby/object:DateTime 2021-06-14 00:00:00.000000000 Z
+  url: https://www.brookings.edu/research/moving-up-promoting-workers-upward-mobility-in-a-time-of-change/?utm_source=Digest&utm_campaign=be8ac6fd64-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_d90a01c7ff-be8ac6fd64-87819641
+  shortDescription: "\"This report offers a new approach to better understand the
+    contours of mobility: Who is falling behind, where, and by how much. Using data
+    on hundreds of thousands of real workers’ occupational transitions, we use network
+    analysis to create a multidimensional map of the labor market, revealing a landscape
+    riddled with mobility gaps and barriers.”"
+  type:
+  - Report
+  theme:
+  - General
+  - In Practice
+- sys:
+    id: 7iz14sv0ANGWZC00VOT7lr
+  authors: Jer Thorp
+  title: 'Living In Data: A Citizen''s Guide to a Better Information Future'
+  publication: Macmillan Publishers
+  pubDate: !ruby/object:DateTime 2021-06-01 00:00:00.000000000 Z
+  url: https://us.macmillan.com/books/9780374189907?utm_source=Digest&utm_campaign=c53a687087-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_d90a01c7ff-c53a687087-87819641
+  shortDescription: 'In this book, Jer Thorp asks the question: “How do we stop passively
+    inhabiting data, and instead become active citizens of it?” The book “not only
+    redefines what data is, but reimagines who gets to speak its language and how
+    to use its power to create a more just and democratic future.”'
+  type:
+  - Book
+  theme:
+  - General
+  - Benefits
+- sys:
+    id: 3BlCZOojh9KJNJ5ghB1nYT
+  authors: Irina Bernal
+  title: Big data for economic statistics
+  publication: United Nation ESCAP Stats Brief
+  pubDate: !ruby/object:DateTime 2021-03-01 00:00:00.000000000 Z
+  url: https://repository.unescap.org/bitstream/handle/20.500.12870/3501/ESCAP-2021-PB-economic-statistics.pdf?sequence=1&isAllowed=y
+  shortDescription: The UN Economic and Social Commission for Asia and the Pacific
+    released the brief, Big Data for economic statistics. “This brief highlights examples
+    of the use of big data sources for generating economic statistics from the national
+    statistical systems, mostly the National Statistical Offices (NSO), in Asia and
+    the Pacifics”
+  type:
+  - Paper
+- sys:
+    id: 7ELdRlcBlzF7p0UL9rWa30
+  authors: Sebastian Lehuede
+  title: 'The coloniality of collaboration: sources of epistemic obedience in data-intensive
+    astronomy in Chile'
+  publication: Information, Communication and Society
+  pubDate: !ruby/object:DateTime 2021-06-01 00:00:00.000000000 Z
+  url: https://www.google.com.hk/url?q=https://www.tandfonline.com/doi/full/10.1080/1369118X.2021.1954229?src%3D%26utm_source%3DDigest%26utm_campaign%3D252f0422b4-RSS_EMAIL_CAMPAIGN%26utm_medium%3Demail%26utm_term%3D0_d90a01c7ff-252f0422b4-87819641&sa=D&source=editors&ust=1628005736877000&usg=AOvVaw08SOTrisl_VpcfrZiIYLwX
+  shortDescription: 'The coloniality of collaboration: sources of epistemic obedience
+    in data-intensive astronomy in Chile by Sebastian Lehuede in Information, Communication
+    and Society, “warns that an increased emphasis on collaboration runs the risk
+    of reproducing planetary hierarchies in times of data-intensive research.”'
+  type:
+  - Journal Article
+- sys:
+    id: 3gLsx03YWhny01MX9o63m5
+  authors: Emily AIken
+  title: Machine Learning and Mobile Phone Data Can Improve the Targeting of Humanitarian
+    Assistance
+  publication: National Bureau of Economic Research
+  pubDate: !ruby/object:DateTime 2021-07-01 00:00:00.000000000 Z
+  url: https://www.nber.org/papers/w29070?utm_source=Digest&utm_campaign=252f0422b4-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_d90a01c7ff-252f0422b4-87819641
+  shortDescription: This paper by Emily Aiken et al. for the National Bureau of Economic
+    Research shows “that non-traditional “big” data from satellites and mobile phone
+    networks can improve the targeting of anti-poverty programs [...] These results
+    highlight the potential for new data sources to contribute to humanitarian response
+    efforts, particularly in crisis settings when traditional data are missing or
+    out of date.”
+  type:
+  - Paper
+- sys:
+    id: 4Xy2r8CEb62n73DQ6WoB6U
+  authors: Partners for Review, Danish Institute for Human Rights, International Civil
+    Society Centre
+  title: Partners for Review, Danish Institute for Human Rights, International Civil
+    Society Centre
+  publication: Danish Institute for Human Rights
+  pubDate: !ruby/object:DateTime 2021-07-01 00:00:00.000000000 Z
+  url: https://voicescount.org/stories/inclusive-sdg-data-partnerships/?utm_source=newsletter&utm_medium=email&utm_campaign=Newsletter+July+2021&utm_source=Digest&utm_campaign=252f0422b4-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_d90a01c7ff-252f0422b4-87819641
+  shortDescription: Partners for Review, Danish Institute for Human Rights, International
+    Civil Society Centre published the joint learning report, Inclusive SDG Data Partnerships.
+    “This learning report gathers knowledge and recommendations from the Inclusive
+    SDG Data Partnerships initiative [..] to advance data partnerships for the SDGs
+    and to strengthen multi-actor data ecosystems at the national level.”
+  type:
+  - Report
+- sys:
+    id: 4sQFRTZK6BCSLoYk5wBzrE
+  authors: Claudia Biancotti, Oscar Borgogno, and Giovanni Veronese
+  title: Claudia Biancotti, Oscar Borgogno, and Giovanni Veronese
+  publication: Bank of Italy Occasional Paper Series
+  pubDate: !ruby/object:DateTime 2021-07-01 00:00:00.000000000 Z
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3896309&utm_source=Digest&utm_campaign=757b922429-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_d90a01c7ff-757b922429-87819641
+  shortDescription: 'Principled Data Access: Building Public-private Data Partnerships
+    for Better Official Statistics by Claudia Biancotti, Oscar Borgogno, and Giovanni
+    Veronese in the Bank of Italy Occasional Paper Series argues for the need for
+    greater transparency and access to official statistics, and proposes “a set of
+    principles under which the public and the private sector can form partnerships
+    to leverage the potential of new-generation data in the public interest.”'
+  type:
+  - Paper
+- sys:
+    id: 5xhPdR1PELBFs6HNrYYYuf
+  authors: Griet Verhenneman
+  title: 'The Patient, Data Protection and Changing Healthcare Models '
+  publication: Intersentia
+  pubDate: !ruby/object:DateTime 2021-05-01 00:00:00.000000000 Z
+  url: https://www.cambridge.org/core/books/patient-data-protection-and-changing-healthcare-models/5B12AE59BE02759D9762B14C768E5FD5?utm_source=Digest&utm_campaign=757b922429-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_d90a01c7ff-757b922429-87819641#fndtn-information
+  shortDescription: The Patient, Data Protection and Changing Healthcare Models by
+    Griet Verhenneman “assesses the adequacy of [three principles of the European
+    data protection law – informed consent, anonymisation and purpose limitation]
+    and considers them in the context of technological and societal evolutions.”
+  type:
+  - Book
+- sys:
+    id: CQsuXRg78qbwmXwKGIYPP
+  authors: Gelb Pepyshev and Masaru Yarime
+  title: 'Exploring city digital twins as policy tools: A task-based approach to generating
+    synthetic data on urban mobility'
+  publication: Cambridge University Press
+  pubDate: !ruby/object:DateTime 2021-07-01 00:00:00.000000000 Z
+  url: https://www.cambridge.org/core/journals/data-and-policy/article/exploring-city-digital-twins-as-policy-tools-a-taskbased-approach-to-generating-synthetic-data-on-urban-mobility/D89BEAEA571454D37BEEBC5BC31CD8E7?utm_source=Digest&utm_campaign=757b922429-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_d90a01c7ff-757b922429-87819641
+  shortDescription: In Data & Policy, this paper by Gelb Pepyshev and Masaru Yarime
+    “analyzes the history of the development of the concept of digital twins and how
+    it is now being adopted on a city-scale [...] and its potential applications in
+    the policymaking context.” See also the “Digital Twins” entry in The Living Library’s
+    21st Century Vocabulary series.
+  type:
+  - Paper
 projects:
 - sys:
     id: 4qXwV2Dbi8IOO8CO6uGCuK
