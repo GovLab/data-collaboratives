@@ -6300,6 +6300,138 @@ datacollaborative:
     as the societal perspective. Data for Good is a foundation with charitable purposes.
     The fund construction ensures citizen control and privacy, and the citizen will
     have access to unique data not previously available."'
+- sys:
+    id: 6br8okH9LfIpm95Ql7XIkJ
+  status: true
+  caseStudy: Driver’s Seat
+  sector:
+  - Transportation
+  sharedBy:
+  - Individuals
+  sharedWith:
+  - city governments
+  - transportation agencies
+  region: North America
+  collaborativeType:
+  - Intelligence Generation
+  dataType:
+  - Disclosed Personal Data
+  link: https://driversseat.co/
+  whatDataShared: "Driver’s Seat offers performance analyses such as hourly earnings
+    and hourly activities to rideshare and delivery drivers through a mobile application.
+    The application collects drivers’ mobility/location intelligence data and sell
+    it to city agencies in order to provide free services (in-depth analytics) to
+    users. \n"
+- sys:
+    id: 6ddmD167pJRd6Q2IxfL1b8
+  status: true
+  caseStudy: Open Humans
+  sector:
+  - Health
+  sharedBy:
+  - Individuals
+  sharedWith:
+  - Communities
+  - Researchers
+  region: Worldwide
+  collaborativeType:
+  - Data Pooling
+  dataType:
+  - Disclosed Personal Data
+  link: https://www.openhumans.org/
+  whatDataShared: "Open Humans is a community-based data sharing platform that gives
+    individuals agency to access and share their personal data. Such data includes
+    personal genetic data, mobility data from wearable devices, or heath monitoring
+    data, which are then used for the purposes of education, health, and research.
+    \n"
+- sys:
+    id: 5lB8WqbMzdM28RvqtWKP1C
+  status: true
+  caseStudy: Open Data Commons Open Database License (ODbL)
+  sector:
+  - Economic Development
+  sharedBy:
+  - Private Sector
+  sharedWith:
+  - Public
+  - Research
+  region: Worldwide
+  collaborativeType:
+  - Public Interfaces
+  dataType:
+  - Observed Non-Personal Data
+  link: https://blogs.bing.com/maps/2022-01/New-and-updated-Building-Footprints/
+  whatDataShared: 'Microsoft Map Team has released new and updated data on building
+    footprint under Open Data Commons Open Database License (ODbL). Currently, the
+    data is available in the following countries and regions: United States, Nigeria,
+    Kenya, South America, Uganda, Tanzania, Canada, and Australia.'
+- sys:
+    id: 6dVRnsbGeQbCFv2IliiIWP
+  status: true
+  caseStudy: Alzheimer's Disease Data Initiative (ADDI)
+  sector:
+  - Health
+  sharedBy:
+  - Academia
+  - Healthcare
+  - Private Sector
+  sharedWith:
+  - Research
+  - Academia
+  region: Worldwide
+  collaborativeType:
+  - Research and Analysis Partnerships
+  link: https://www.alzheimersdata.org/
+  whatDataShared: 'A medical research organization Alzheimer''s Disease Data Initiative
+    (ADDI) hosts a data repository and provides analytic tools for Alzheimer''s Disease
+    researchers through the Alzheimer’s Disease Workbench. The initiative aims to
+    increase data interoperability, data sharing, and robust scientific research on
+    the disease. '
+- sys:
+    id: 5dj7YGZHYgBMsGgpIYnYig
+  status: true
+  caseStudy: TELUS Data for Good
+  sector:
+  - Health
+  sharedBy:
+  - TELUS
+  sharedWith:
+  - Researchers
+  - local governments
+  region: North America
+  collaborativeType:
+  - Public Interfaces
+  dataType:
+  - Disclosed Non-Personal Data
+  link: https://www.telus.com/en/about/privacy/data-for-good
+  whatDataShared: 'In an effort to support health authorities and researchers, TELUS
+    has shared its de-identified location intelligence data through their TELUS Insights
+    Platform in order to reduce the spread of the pandemic. '
+- sys:
+    id: 7IKrhFwt1Gq7QiqLqz0lRE
+  status: true
+  caseStudy: Stanford’s Center for Artificial Intelligence in Medicine and Imaging
+    (AIMI) Shared Datasets
+  sector:
+  - Health
+  sharedBy:
+  - Stanford University Center for Artificial Intelligence in Medicine and Imaging
+    (AIMI)
+  sharedWith:
+  - Academia
+  - Public
+  region: Worldwide
+  collaborativeType:
+  - Research and Analysis Partnerships
+  dataType:
+  - Disclosed Non-Personal Data
+  link: https://stanfordaimi.azurewebsites.net/
+  purpose: 'Stanford’s Center for Artificial Intelligence in Medicine and Imaging
+    (AIMI) Shared Datasets aims to democratize research on imaging technology and
+    the application of artificial intelligence through a free repository of AI-ready
+    annotated medical imaging datasets. AIMI’s partnerships enabled the acquisition
+    of more than 1 million images in two years and researchers can download these
+    datasets to train AI models and use them for educational purposes. '
 events:
 - sys:
     id: uF3uaikYV2gWsckO8wYO2
@@ -11847,6 +11979,56 @@ resources:
     21st Century Vocabulary series.
   type:
   - Paper
+- sys:
+    id: 6c7hGZ4JNvVOJvRerrqUyw
+  authors: Elizabeth Hansen Shapiro, Michael Sugarman, Fernando Bermejo, Ethan Zuckerman
+  title: 'New Approaches to Platform Data Research '
+  publication: NetGain Partnership
+  pubDate: !ruby/object:DateTime 2021-02-01 00:00:00.000000000 Z
+  url: https://www.netgainpartnership.org/resources/2021/2/25/new-approaches-to-platform-data-research
+  shortDescription: "This report “explores the challenges and potentials of a wide
+    range of approaches to studying social media platforms, ranging from cooperative
+    to adversarial strategies” and “represents the results of 32 interviews, and includes
+    an overview of the different ways researchers are trying to understand social
+    media data, the obstacles to accessing that data, and a set of recommendations
+    for policymakers and philanthropic funders to increase access to that data.” \n"
+  type:
+  - Report
+- sys:
+    id: 6wUb0udlB6mtXrdA8ZNaVa
+  authors: Gavin Starks, Miles Cheetham, Jannah Patchay
+  title: Enabling secure and scalable non-financial reporting and data flows
+  publication: Icebreaker One
+  pubDate: !ruby/object:DateTime 2021-04-28 00:00:00.000000000 Z
+  url: https://icebreakerone.org/wp-content/uploads/2021/04/report_-IB1-Enabling-secure-and-scalable-non-financial-reporting-and-data-flows-2021-04-28.pdf
+  shortDescription: 'This report presents “the scope and complexity of data sharing
+    across markets, supply and value-chains” and “[highlights] challenges that create
+    friction, inertia and inhibit action in delivering goals, including hard-programmed
+    habits and underlying presuppositions and premises.” It also explores “solutions
+    that can reduce friction in data-sharing and propose levers of change that can
+    help unlock innovation (e.g. policy and regulatory, perception shifts, behavioral
+    changes)” '
+  type:
+  - Report
+- sys:
+    id: RHD4iperMoclW4DUtnMQR
+  authors: Wilma Dragonetti
+  title: Better Business to Government (B2G) data sharing that works for cities and
+    people
+  publication: EuroCities
+  pubDate: !ruby/object:DateTime 2021-09-01 00:00:00.000000000 Z
+  url: https://eurocities.eu/wp-content/uploads/2021/08/EUROCITIES-statement-on-B2G-data-sharing.pdf
+  shortDescription: '“The framework should foster collaboration and experimentation
+    by the local ecosystems’ stakeholders to co-develop advanced data-driven applications
+    and services as well as enable scaling up of practices in local data sharing between
+    cities across Europe. It should promote and support data quality culture in the
+    public sector and especially in city governments to increase the efficiency of
+    public services."
+
+    '
+  type:
+  - Report
+  - Guide
 projects:
 - sys:
     id: 4qXwV2Dbi8IOO8CO6uGCuK
