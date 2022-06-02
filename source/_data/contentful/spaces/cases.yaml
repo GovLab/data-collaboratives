@@ -6426,12 +6426,12 @@ datacollaborative:
   dataType:
   - Disclosed Non-Personal Data
   link: https://stanfordaimi.azurewebsites.net/
-  purpose: 'Stanford’s Center for Artificial Intelligence in Medicine and Imaging
+  whatDataShared: "Stanford’s Center for Artificial Intelligence in Medicine and Imaging
     (AIMI) Shared Datasets aims to democratize research on imaging technology and
     the application of artificial intelligence through a free repository of AI-ready
     annotated medical imaging datasets. AIMI’s partnerships enabled the acquisition
     of more than 1 million images in two years and researchers can download these
-    datasets to train AI models and use them for educational purposes. '
+    datasets to train AI models and use them for educational purposes. \n"
 events:
 - sys:
     id: uF3uaikYV2gWsckO8wYO2
@@ -11939,12 +11939,19 @@ resources:
 - sys:
     id: 4sQFRTZK6BCSLoYk5wBzrE
   authors: Claudia Biancotti, Oscar Borgogno, and Giovanni Veronese
-  title: Claudia Biancotti, Oscar Borgogno, and Giovanni Veronese
+  title: 'Principled Data Access: Building Public-private Data Partnerships for Better
+    Official Statistics'
   publication: Bank of Italy Occasional Paper Series
   pubDate: !ruby/object:DateTime 2021-07-01 00:00:00.000000000 Z
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3896309&utm_source=Digest&utm_campaign=757b922429-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_d90a01c7ff-757b922429-87819641
   shortDescription: 'Principled Data Access: Building Public-private Data Partnerships
     for Better Official Statistics by Claudia Biancotti, Oscar Borgogno, and Giovanni
+    Veronese in the Bank of Italy Occasional Paper Series argues for the need for
+    greater transparency and access to official statistics, and proposes “a set of
+    principles under which the public and the private sector can form partnerships
+    to leverage the potential of new-generation data in the public interest.”'
+  annotation: 'Principled Data Access: Building Public-private Data Partnerships for
+    Better Official Statistics by Claudia Biancotti, Oscar Borgogno, and Giovanni
     Veronese in the Bank of Italy Occasional Paper Series argues for the need for
     greater transparency and access to official statistics, and proposes “a set of
     principles under which the public and the private sector can form partnerships
@@ -12018,14 +12025,12 @@ resources:
   publication: EuroCities
   pubDate: !ruby/object:DateTime 2021-09-01 00:00:00.000000000 Z
   url: https://eurocities.eu/wp-content/uploads/2021/08/EUROCITIES-statement-on-B2G-data-sharing.pdf
-  shortDescription: '“The framework should foster collaboration and experimentation
-    by the local ecosystems’ stakeholders to co-develop advanced data-driven applications
+  annotation: “The framework should foster collaboration and experimentation by the
+    local ecosystems’ stakeholders to co-develop advanced data-driven applications
     and services as well as enable scaling up of practices in local data sharing between
     cities across Europe. It should promote and support data quality culture in the
     public sector and especially in city governments to increase the efficiency of
     public services."
-
-    '
   type:
   - Report
   - Guide
