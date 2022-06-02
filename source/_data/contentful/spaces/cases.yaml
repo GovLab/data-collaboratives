@@ -4600,7 +4600,7 @@ datacollaborative:
 - sys:
     id: 2vu2Kuowi9krxe7pEweFwh
   status: true
-  caseStudy: App COVID-19.EUS
+  caseStudy: App COVID-19 EUS
   sector:
   - Health
   sharedBy:
@@ -4880,7 +4880,7 @@ datacollaborative:
 - sys:
     id: 5BJwYiWsgZN5D5ehN7yvWq
   status: true
-  caseStudy: 'Facebook–Carnegie Mellon COVID-19 Hotspot Collaboration '
+  caseStudy: 'Facebook-Carnegie Mellon COVID-19 Hotspot Collaboration '
   sector:
   - Health
   sharedBy:
@@ -5998,7 +5998,7 @@ datacollaborative:
     share their content for free.
 - sys:
     id: 2jBYCbihJhSd2EnrijdoaW
-  caseStudy: dOrg.tech
+  caseStudy: dOrg tech
   sector:
   - other
   sharedBy:
@@ -6303,7 +6303,7 @@ datacollaborative:
 - sys:
     id: 6br8okH9LfIpm95Ql7XIkJ
   status: true
-  caseStudy: Driver’s Seat
+  caseStudy: Drivers Seat
   sector:
   - Transportation
   sharedBy:
