@@ -318,7 +318,7 @@ datacollaborative:
   - Energy Usage
   dataSource:
   - Electricity and Gas Meters
-  link: https://www.enexis.nl/over-enexis/open-data
+  link: https://www.enexis.nl/over-ons/open-data
   whatDataShared: "Enexis, a Dutch energy company, makes anonymized data about residential
     gas and electric energy use publically available via its website. I makes made
     anonymized unit-level gas and electricity consumption data dating back to 2009
@@ -375,7 +375,7 @@ datacollaborative:
   - Employment
   dataSource:
   - Multiple
-  link: http://map.feedingamerica.org/county/2014/overall
+  link: https://map.feedingamerica.org/
   whatDataShared: "This collaboration between Feeding America and Nielsen in 2014
     collected and mapped data about food insecurity across America to aid research
     and advocacy efforts. Nielsen obtained data estimates for food pricing through
@@ -767,7 +767,7 @@ datacollaborative:
   - Tracking Data
   dataSource:
   - 'Mobile phone locations: GPS Data'
-  link: http://www.d4d.orange.com/en/Accueil
+  link: https://arxiv.org/abs/1407.4885
   whatDataShared: "The D4D Challenge was an international competition in which Orange
     Telecom offered its anonymized data to researchers seeking to address development
     problems in the Ivory Coast and Senegal. Research teams could apply by sending
@@ -799,7 +799,7 @@ datacollaborative:
   - Observed Personal Data
   dataKind:
   - Social Media Data
-  link: https://www.coosto.com/en/resources/user-success-stories/how-does-cbs-use-coosto
+  link: https://www.ecb.europa.eu/events/pdf/conferences/140407/Daas_Puts_Sociale_media_cons_conf_Stat_Neth.pdf?409d61b733fc259971ee5beec7cedc61
   whatDataShared: The Netherland's Central Bureau for Statistics (CBS) used Coosto's
     service to research consumer sentiment. Coosto is a for-profit social media analytics
     company. Since Coosto is a for-profit company most of their internal procedures
@@ -908,7 +908,7 @@ datacollaborative:
   - Trusted Intermediary
   dataType:
   - Observed Personal Data
-  link: http://www.opalproject.org/about-us
+  link: https://www.opalproject.org/
   whatDataShared: |-
     OPAL (OPen ALgorithms) is a collaborative project developed by a number of partner organizations seeking to leverage the power of big data to solve public problems. According to its website, OPAL’s core will consist of an open suite of software and open algorithms providing access to statistical information coming from anonymized, secured and formatted data.
 
@@ -962,7 +962,7 @@ datacollaborative:
   - Tracking Data
   dataSource:
   - Mobile Phone Locations
-  link: http://www.telecomitalia.com/tit/en/bigdatachallenge.html
+  link: https://theodi.fbk.eu/openbigdata/
   whatDataShared: "Telecom Italia's Big Data Challenge sought to create and develop
     innovative technological ideas in the field of big data in order to spur innovation
     in this sector and improve the lives of individuals, companies and communities.
@@ -1014,7 +1014,7 @@ datacollaborative:
   - Internet Usage
   dataSource:
   - Social Networks
-  link: http://www.yelp.com/dataset_challenge
+  link: https://engineeringblog.yelp.com/2015/02/yelp-dataset-challenge-is-doubling-up.html
   whatDataShared: The directory and review site Yelp shares global crowdsourced user
     data on restaurants across cities (such as Phoenix, Madison, and Edinburgh) in
     its Dataset Challenge for participating researchers to build tools and provide
@@ -1075,7 +1075,7 @@ datacollaborative:
   - Trusted Intermediary
   dataType:
   - Observed Personal Data
-  link: http://www.flowminder.org/case-studies/guiding-malaria-elimination-strategies-in-namibia
+  link: https://apolitical.co/solution-articles/en/phone-records-help-namibia-clamp-malaria
   whatDataShared: Researchers used satellite and cell phone data to map how malaria
     spreads throughout Namibia and show where elimination efforts have the greatest
     impact. To reconstruct travel patterns, Namibia’s largest network provider, Mobile
@@ -1427,7 +1427,7 @@ datacollaborative:
   - Commercial Transactions
   dataSource:
   - Online Platform Transctions
-  link: https://www.jpmorganchase.com/corporate/institute/document/jpmc-institute-online-platform-econ-brief.pdf
+  link: https://www.jpmorganchase.com/institute/research/labor-markets/report-paychecks-paydays-and-the-online-platform-economy
   whatDataShared: The JP Morgan Chase Institute uses its expertise and proprietary
     data from the multinational financial corporation to produce research reports
     on economic issues. These reports are intended for  policymakers, businesses,
@@ -1546,7 +1546,7 @@ datacollaborative:
   - Traffic Data
   dataSource:
   - Location and Traffic Data
-  link: http://opentraffic.io/
+  link: https://github.com/opentraffic/otv2-platform
   whatDataShared: |-
     The World Bank, Conveyal, and Mapzen formed the nonprofit OpenTraffic to support open source software development and collect accurate, real-time traffic data from individuals and organizations across the transport sector. By partnering with transport organizations around the world, OpenTraffic is able to access and pool this anonymized traffic data to create a complete dataset of traffic and routing data available free to the public.
     This data intends to support community planning and businesses decision-making, in addition to providing the public with access to high-quality traffic data.
@@ -1615,7 +1615,7 @@ datacollaborative:
   - Observed Personal Data
   - Disclosed Non-Personal Data
   - Observed Non-Personal Data
-  link: https://www.cbs.nl/en-gb/our-services/innovation/big-data
+  link: https://www.cbs.nl/en-gb/about-us/innovation/nieuwsberichten/big-data/cbs-launching-center-for-big-data-statistics
   whatDataShared: "A Dutch statistics organization CBS is experimenting with using
     big data from a variety of organizations in their Center for Big Data Statistics
     projects. This data is used to create high-quality visualizations and community
@@ -2090,7 +2090,7 @@ datacollaborative:
   - Remote Sensors
   dataSource:
   - Satellite and Aerial Imagery
-  link: http://blog.digitalglobe.com/tag/8-band-research-challenge/
+  link: https://blog.maxar.com/leading-the-industry/2011/new-research-confirms-value-of-digitalglobe-e2-80-99s-8-band-imagery
   whatDataShared: |-
     In its 2010 DigitalGlobe 8-Band Research Challenge, the satellite imagery company (now Maxar) shared its high-resolution imagery data containing 8 spectral bands (hence, 8-band) with participating researchers. This included "coastal blue, yellow, red-edge and NIR2" data. The collaborative marked the first time the scientific community had access to high resolution images with 8 spectral bands. This allowed unprecedented information to be gleaned useful in Land Use Land Cover Analysis, Environmental Mapping and Monitoring, and Coastal Habitat Mapping.
 
@@ -2504,7 +2504,7 @@ datacollaborative:
 - sys:
     id: 47gv2yIjaMiUO8SoUMsiGI
   status: true
-  caseStudy: Cooper/Smith and Digital Impact Alliance (DIAL) Partner to Improve Health
+  caseStudy: Cooper Smith and Digital Impact Alliance (DIAL) Partner to Improve Health
     in Malawi
   sector:
   - Health
@@ -2765,7 +2765,7 @@ datacollaborative:
   dataType:
   - Disclosed Non-Personal Data
   - Observed Non-Personal Data
-  link: http://demandinstitute.org/projects/project-8/
+  link: https://thedataeconomylab.com/explorer/project-8-a-data-collaboration-platform-for-sustainable-development/
   whatDataShared: Project 8 is a global, digital, community-based platform created
     to use data on sustainable development and evolving human need to help figure
     out how to sustain a growing global population. Project 8 aims to make data sharing
@@ -3031,7 +3031,7 @@ datacollaborative:
   dataType:
   - Disclosed Personal Data
   - Observed Personal Data
-  link: https://digiads.co.id/en/blog/news/kemenpar-apresiasi-telkomsel-msight/
+  link: https://www.unescap.org/sites/default/d8files/event-documents/Telkomsel_Stats_Cafe_30Aug2021.pdf
   whatDataShared: Telkomsel shared insights from its mobile positioning data – "captured
     from among the 79 border posts scattered around 29 districts at border-crossing
     locations" – with the Indonesian Ministry of Tourism. Using MSIGHT, Telkomsel's
@@ -3503,7 +3503,7 @@ datacollaborative:
 - sys:
     id: 1DfIR7reF0pYqGutGZL9in
   status: true
-  caseStudy: 'WattTime : Opening up satellite data to track power plant pollution'
+  caseStudy: WattTime Opening up satellite data to track power plant pollution
   sector:
   - Environment
   sharedBy:
@@ -3671,7 +3671,7 @@ datacollaborative:
   dataType:
   - Disclosed Non-Personal Data
   - Observed Non-Personal Data
-  link: http://api.reimaginebanking.com/
+  link: http://api.nessieisreal.com/#:~:text=What%20is%20Nessie%3F,even%20schedule%20bills%20for%20customers!
   whatDataShared: "The bank holding company Capital One hosted a hackathon to encourage
     co-creation and developer engagement aimed at creating better customer experiences
     and addressing economic challenges.\n\nFor this competition, Capital One created
@@ -3694,7 +3694,7 @@ datacollaborative:
   - "*Web Scraping"
   dataType:
   - Disclosed Non-Personal Data
-  link: https://unstats.un.org/bigdata/inventory/?selectID=2015009
+  link: https://www.ottawagroup.org/Ottawa/ottawagroup.nsf/4a256353001af3ed4b2562bb00121564/1ab31c25da944ff5ca25822c00757f87/$FILE/From%20price%20collection%20to%20price%20data%20analytics%20-Josef%20Auer,%20Ingolf%20Boettcher%20-Paper.pdf
   whatDataShared: Austria Statistics is experimenting with innovative means for accessing
     and analyzing web data related to pricing to inform its development of a Consumer
     Price Index (CPI) for the country. The agency used web crawlers to automatically
@@ -3853,7 +3853,7 @@ datacollaborative:
   - Research and Analysis Partnerships
   dataType:
   - Observed Personal Data
-  link: https://www.knuper.com/news/2017/project/senegal-literacy/
+  link: https://arxiv.org/abs/1407.4885
   whatDataShared: "In 2013, the data-driven international development company Knuper
     acquired call detail record (CDR) data from the telecommunications company Orange/Sonatel
     as part of its Data for Development Challenge. Using this data, Knuper conducted
@@ -3908,7 +3908,7 @@ datacollaborative:
   dataType:
   - Disclosed Non-Personal Data
   - Observed Non-Personal Data
-  link: https://onetransport.io/
+  link: https://marketplace.city/p/onetransport-data-marketp/
   whatDataShared: 'OneTRANSPORT is a data marketplace where public and private sector
     organizations can distribute and obtain real time and historical transportation
     data. Through OneTRANSPORT, data holders can offer their data assets for free
@@ -3973,7 +3973,7 @@ datacollaborative:
   region: Worldwide
   collaborativeType:
   - Intelligence Generation
-  link: https://www.bbvadata.com/urbandiscovery/
+  link: https://www.bbva.com/en/bbva-uses-big-data-restructure-maps-madrid-barcelona-mexico-city/
   whatDataShared: 'Spanish banking group BBVA collaborated with CARTO, a company that
     provides spatial intelligence data and tools, to generate insights about city
     dynamics by analyzing credit card transaction data. The result of the analysis
@@ -4116,7 +4116,7 @@ datacollaborative:
 - sys:
     id: 7FvTXQZpr8zHnjZvN97pn1
   status: true
-  caseStudy: Google.org Fellowship
+  caseStudy: Google org Fellowship
   sector:
   - Social Inclusion
   - Security/Public Safety
@@ -4358,7 +4358,7 @@ datacollaborative:
   region: Europe and Central Asia
   collaborativeType:
   - Research and Analysis Partnerships
-  link: https://imagingcovid19ai.eu/
+  link: https://www.diagnosticsworldnews.com/news/2020/07/14/ai-used-to-scan-images-and-detect-covid-19
   whatDataShared: The Imaging COVID-19 AI initiative is an effort coordinated by the
     Netherlands Cancer Institute to train an AI algorithm to diagnose COVID-19 based
     on CT scans and quantify the severity of the infection in the patient. The project
@@ -4472,7 +4472,7 @@ datacollaborative:
 - sys:
     id: 2Hlw8OIhuvRcoO2rJtnRPZ
   status: true
-  caseStudy: HealthWeather.US
+  caseStudy: HealthWeather US
   sector:
   - Health
   sharedBy:
@@ -4524,7 +4524,7 @@ datacollaborative:
   region: Latin America and the Caribbean
   collaborativeType:
   - Intelligence Generation
-  link: https://mapabrasileirodacovid.inloco.com.br/pt/
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8442254/
   whatDataShared: The Brazilian geolocation start-up Incognia is using anonymized
     location data from 60 million devices to assess adherence to social distancing
     and lockdown policies during the COVID-19 pandemic. The organization provides
@@ -4751,7 +4751,7 @@ datacollaborative:
   - Observed Personal Data
   - Disclosed Non-Personal Data
   - Observed Non-Personal Data
-  link: https://oecd-opsi.org/covid-response/eleaders-data-against-covid-a-joint-initiative-of-technology-experts-and-skilled-volunteers-covid/
+  link: https://oecd-opsi.org/covid-response/data-against-covid-a-joint-initiative-of-technology-experts-and-skilled-volunteers-covid/
   whatDataShared: Data Against COVID (also known as COVID19.CZ) is an initiative spearheaded
     by several Czechian technology companies to help the government respond to the
     COVID-19 pandemic. These organizations are providing data analysis and communication,
@@ -4960,7 +4960,7 @@ datacollaborative:
   region: East Asia and Pacific
   collaborativeType:
   - Trusted Intermediary
-  link: https://dataventures.nz/covid-19.html
+  link: https://reports.dataventures.nz/bespoke/local-council-cbd-patterns/20210128-covid-19-council-cbd-behaviour-january-2021.html
   whatDataShared: 'Data Ventures, a data broker and the commercial arm of New Zealand’s
     statistical agency, is supporting the work of New Zealand’s National Crisis Management
     Centre. This work includes supplying the centre with datasets and insights to
@@ -5156,7 +5156,7 @@ datacollaborative:
   - Data Pooling
   dataType:
   - Disclosed Non-Personal Data
-  link: https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/
+  link: https://allenai.org/data/cord-19
   whatDataShared: At the Request of the White House Office of Science and Technology
     Policy, researchers with the Allen Institute for AI, Chan Zuckerberg Initiative,
     Georgetown University’s Center for Security and Emerging Technology, Microsoft,
@@ -5307,7 +5307,7 @@ datacollaborative:
   region: Europe and Central Asia
   collaborativeType:
   - Intelligence Generation
-  link: https://aiforimpacttoolkit.gsma.com/case-study-portfolio/megafon-case-study
+  link: https://aiforimpacttoolkit.gsma.com/resources/Megafon-Case-Study.pdf
   whatDataShared: 'LizaAlert, a Russian volunteer organization that provides search-and-rescue
     operations for those reported missing, worked with MegaFon, the mobile phone operator,
     to improve missing person operations. Using an in-house algorithm applied to its
@@ -6136,7 +6136,7 @@ datacollaborative:
     sign a data use agreement.'
 - sys:
     id: 3wrRPJFQ1SAMC72uAxGeB7
-  caseStudy: Mission:data
+  caseStudy: Mission data
   sector:
   - other
   sharedBy:
