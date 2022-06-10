@@ -5,13 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-    <meta property="og:title" content="HealthWeather.US">
+    <meta property="og:title" content="Mission data">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="http://datacollaboratives.org/cases/healthweather.us.html">
+    <meta property="og:url" content="http://datacollaboratives.org/cases/mission-data.html">
     <meta property="og:image" content="http://datacollaboratives.org">
     <meta property="og:description" content="">
 
-    <title>HealthWeather.US</title>
+    <title>Mission data</title>
 
     <link rel="stylesheet" href="/scripts/foundation.min.css">
     <link rel="stylesheet" href="/scripts/styleguide-v2.css">
@@ -67,20 +67,30 @@
 
     <div class="case-page">
 
-  <div class="top-section case-page__header case-page__header-health" style="background-image: url('/images/headers/health.jpg')">
+  <div class="top-section case-page__header case-page__header-other" style="background-image: url('/images/headers/other.jpg')">
     <hgroup>
-      <h1><span>HealthWeather.US</span></h1>
+      <h1><span>Mission data</span></h1>
       <h2 id="data-filter-container">
+        
+          
+            <!-- 
+            This needs a refactor. 
+            Why we have this JS to change cursor? 
+            Why the <a> inside the <span>? Thsi should be one single tag. 
+            I tried it, but it broke the JS, which is also not ideal, since we can have it work with native anchor tag behavior, and #values.
+            -->
+            <span id="data-type" onmouseover="this.style.cursor='pointer';" class="disclosed-non-personal-data" ><a id="span-link" class="disclosed-non-personal-data" href="#">Disclosed Non-Personal Data</a></span>
+          
         
 
         
           
-            <span onmouseover="this.style.cursor='pointer';" id="data-sector" class="health" ><a id="span-link"class="health" href="#">Health</a></span>
+            <span onmouseover="this.style.cursor='pointer';" id="data-sector" class="other" ><a id="span-link"class="other" href="#">other</a></span>
           
         
       </h2>
     </hgroup>
-    <div class="case-page__header--button"><a target="_blank" class="button" href="https://healthweather.us/">Go to website</a></div>
+    <div class="case-page__header--button"><a target="_blank" class="button" href="http://www.missiondata.io/">Go to website</a></div>
   </div>
 <!-- 
   <div class="page-section case-page--info">
@@ -88,7 +98,7 @@
       <div class="small-12 column medium-6 ">
         
           <h4>The Data</h4>
-          <p>The US Health Weather Map is an effort launched by the health company Kinsa Health. Using readings from a million internet-connected thermometers, the organization attempts to depict where there is unusually high or growing levels of fever in the United States. Through a map, the organization depicts the cumulative amount of atypical disease, trends, and observed cases. Project managers hope the system can turn up new cases of COVID-19. Individuals and organizations can apply for access to more detailed access [here](https://content.kinsahealth.com/us-health-weather-map-public-api-application).</p>
+          <p>Mission:data is a US coalition of 30+ technology companies that provide consumers with access to their own energy use and cost data in a convenient format. This includes both the data from the utility website and real-time data directly from smart meters. Empowering users with accessible data regarding their energy comsumption can support users in reducing costs and energy spending.</p>
         
       </div>
       <div class="small-12 column medium-6 ">
@@ -102,7 +112,7 @@
       <div class="column large-8">
         
           <h4>DESCRIPTION</h4>
-          <p>The US Health Weather Map is an effort launched by the health company Kinsa Health. Using readings from a million internet-connected thermometers, the organization attempts to depict where there is unusually high or growing levels of fever in the United States. Through a map, the organization depicts the cumulative amount of atypical disease, trends, and observed cases. Project managers hope the system can turn up new cases of COVID-19. Individuals and organizations can apply for access to more detailed access [here](https://content.kinsahealth.com/us-health-weather-map-public-api-application).</p>
+          <p>Mission:data is a US coalition of 30+ technology companies that provide consumers with access to their own energy use and cost data in a convenient format. This includes both the data from the utility website and real-time data directly from smart meters. Empowering users with accessible data regarding their energy comsumption can support users in reducing costs and energy spending.</p>
           <!-- <p></p>
           <p></p> -->
         
@@ -112,8 +122,14 @@
         <div class="share-panel">
           <h5>Shared by</h5>
           
-            <!-- <a href="#" class="share-panel__item">KinsaHealth</a> -->
-            <span class="share-panel__item">KinsaHealth</span>
+            <!-- <a href="#" class="share-panel__item">General Public</a> -->
+            <span class="share-panel__item">General Public</span>
+          
+            <!-- <a href="#" class="share-panel__item">Private Sector</a> -->
+            <span class="share-panel__item">Private Sector</span>
+          
+            <!-- <a href="#" class="share-panel__item">Energy Industry</a> -->
+            <span class="share-panel__item">Energy Industry</span>
           
         </div>
         
@@ -121,8 +137,8 @@
         <div class="share-panel">
           <h5>Shared with</h5>
           
-            <!-- <a href="#" class="share-panel__item">Oregon State University</a> -->
-            <span class="share-panel__item">Oregon State University</span>
+            <!-- <a href="#" class="share-panel__item">General Public</a> -->
+            <span class="share-panel__item">General Public</span>
           
         </div>
         
