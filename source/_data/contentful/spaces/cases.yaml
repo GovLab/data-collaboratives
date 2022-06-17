@@ -749,7 +749,7 @@ datacollaborative:
 - sys:
     id: 6gMgsJZ984SqGMM0a00GMK
   status: true
-  caseStudy: Orange Telecom Data for Development Challenge (D4D)
+  caseStudy: Orange Telecom Data for Development Challenge
   sector:
   - Health
   - Environment
@@ -3569,7 +3569,7 @@ datacollaborative:
 - sys:
     id: 372iF4JPlKkI2EOmiuKm6Q
   status: true
-  caseStudy: Mastercard’s Data Philanthropy Fellows
+  caseStudy: Mastercards Data Philanthropy Fellows
   sector:
   - Economic Development
   sharedBy:
@@ -5190,7 +5190,7 @@ datacollaborative:
     needed more mobility options.'
 - sys:
     id: 6ubjo4JatGVVu2LZjtB9Nn
-  caseStudy: Real-Time Consumer Spending Data Tracking the COVID-19 Pandemic
+  caseStudy: Real Time Consumer Spending Data Tracking the COVID19 Pandemic
   sector:
   - Health
   - Economic Development
@@ -5278,7 +5278,7 @@ datacollaborative:
     to identify geographical locations most at risk of tuberculosis incidence. '
 - sys:
     id: 7Cbh11Nczy6OcXCVk2SURe
-  caseStudy: Telefónica Brazil Air Pollution Prediction
+  caseStudy: Telefonica Brazil Air Pollution Prediction
   sector:
   - Environment
   sharedBy:
@@ -5437,7 +5437,7 @@ datacollaborative:
 - sys:
     id: 1nKOVwnqfuaBCJk4dX4z5J
   status: true
-  caseStudy: Mapping the 2019–2020 Australian Bushfires with the Open Data Cube
+  caseStudy: Mapping the 2019 2020 Australian Bushfires with the Open Data Cube
   sector:
   - Environment
   sharedWith:
@@ -5745,7 +5745,7 @@ datacollaborative:
     and communities, as well as mental health experts working on preventing suicide.
 - sys:
     id: 1dVAi0ROp32Xtocjq1HvTQ
-  caseStudy: The Genomic Data Commons (GDC)
+  caseStudy: The Genomic Data Commons
   sector:
   - Health
   sharedBy:
@@ -5812,7 +5812,7 @@ datacollaborative:
     disease patterns with relatively rare diseases or rare exposures.'
 - sys:
     id: 5PDgetkaXPzEZIKuSIhhOQ
-  caseStudy: Princeton’s Eviction Lab
+  caseStudy: Princetons Eviction Lab
   sector:
   - Social Inclusion
   sharedBy:
@@ -6410,8 +6410,8 @@ datacollaborative:
 - sys:
     id: 7IKrhFwt1Gq7QiqLqz0lRE
   status: true
-  caseStudy: Stanford’s Center for Artificial Intelligence in Medicine and Imaging
-    (AIMI) Shared Datasets
+  caseStudy: Stanford Center for Artificial Intelligence in Medicine and Imaging Shared
+    Datasets
   sector:
   - Health
   sharedBy:
