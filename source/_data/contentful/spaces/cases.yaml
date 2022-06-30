@@ -6432,6 +6432,37 @@ datacollaborative:
     annotated medical imaging datasets. AIMI’s partnerships enabled the acquisition
     of more than 1 million images in two years and researchers can download these
     datasets to train AI models and use them for educational purposes. \n"
+- sys:
+    id: ume4ZLlwVTjqvya52ZrzY
+  caseStudy: " Hong Kong: Promoting Intermodal Transport Data Sharing through the
+    Hong Kong University's Data Trust"
+  sector:
+  - Transportation
+  region: East Asia and Pacific
+  collaborativeType:
+  - Intelligence Generation
+  dataType:
+  - Observed Non-Personal Data
+  link: https://www.accesspartnership.com/intermodal-transport-data-sharing-programme/
+  whatDataShared: |-
+    In 2018, the Chief Executive of Hong Kong SAR expressed concerns
+    about the lack of data being shared with the government and the
+    public by privately-operated bus companies. This triggered the
+    Transport Department under the Transport and Housing Bureau to
+    begin serious efforts to encourage the sharing of data from transport
+    service providers (TSPs) such as buses, ferries, trams and metro.
+
+    To provide these offerings to private transport operators, the
+    University of Hong Kong (HKU) established a Data Trust. Through
+    this initiative, major bus companies, the metro service and travel
+    card operators agreed to share passenger, route, and time data for
+    the month of May 2019 in respect to the Exchange Square Public
+    Transport Interchange (PTI) in the Central Business District.
+
+    The Data Trust was established with funding from the Government’s
+    Innovation & Technology Fund (ITF) and the Information Technology
+    Services (ITS) unit at HKU provided cloud resources for the Data
+    Trust.
 events:
 - sys:
     id: uF3uaikYV2gWsckO8wYO2
@@ -12034,6 +12065,274 @@ resources:
   type:
   - Report
   - Guide
+- sys:
+    id: 6YJFOaV71RQcjNMd6L8jE7
+  authors: Bennett Cyphers
+  title: How the Federal Government Buys Our Cell Phone Location Data
+  publication: Electronic Frontier Foundation
+  pubDate: !ruby/object:DateTime 2022-06-13 00:00:00.000000000 Z
+  url: https://www.eff.org/deeplinks/2022/06/how-federal-government-buys-our-cell-phone-location-data
+  shortDescription: 'This piece discusses how “data brokers and federal military,
+    intelligence, and law enforcement agencies have formed a vast, secretive partnership
+    to surveil the movements of millions of people.” It provides an overview of how
+    different organizations acquire data and then sell it to or share it with other
+    parties.
+
+    '
+  type:
+  - Blog Post
+- sys:
+    id: qV1DWg0WsLzPRR8ZMUdoX
+  authors: Caitrin Pilkington
+  title: Seeking data sovereignty, a First Nation introduces its own license
+  publication: Cabin Radio
+  pubDate: !ruby/object:DateTime 2022-04-19 00:00:00.000000000 Z
+  url: https://cabinradio.ca/90219/news/dehcho/seeking-data-sovereignty-a-first-nation-introduces-its-own-licence/
+  shortDescription: 'This piece describes an effort by the Łı́ı́dlı̨ı̨ Kų́ę́ First
+    Nation of the Northwest Territories of Canada, in partnership with the Scotty
+    Creek research facility, to create a new application process for researchers to
+    use to request data on the community. The process asks researchers to declare
+    all raw data will be co-owned by the First Nation among other details.
+
+    '
+  type:
+  - Blog Post
+- sys:
+    id: 5EJcioNjKopv4QbjPe5XfC
+  authors: Louise Mc Grath-Lone, Matthew A Jay, Ruth Blackburn, Emma Gordon, Ania
+    Zylbersztejn, Linda Wijlaars, Ruth Gilbert
+  title: What makes administrative data research-ready?
+  publication: The International Journal of Population Data Science (IJPDS)
+  pubDate: !ruby/object:DateTime 2022-06-20 00:00:00.000000000 Z
+  url: https://ijpds.org/article/view/1718
+  shortDescription: 'This article provides an overview and thematic analysis of why
+    administrative data is such a rich research resource. The piece defines “the characteristics
+    of research-ready administrative data based on a systematic review and synthesis
+    of existing literature.”
+
+    '
+  type:
+  - Journal Article
+- sys:
+    id: 1jCZ1mZsoJ1KRajzr4tkKo
+  authors: Corina Pascu and Jean-Claude Burgelman
+  title: 'Open data: The building block of 21st century (open) science'
+  publication: Data & Policy
+  pubDate: !ruby/object:DateTime 2022-05-25 00:00:00.000000000 Z
+  url: https://www.cambridge.org/core/journals/data-and-policy/article/open-data-the-building-block-of-21st-century-open-science/E7D3B6EE5F05606D92A69FA55F76E001
+  shortDescription: 'This paper identifies the potential benefits of data sharing
+    and open science when data is open and findable, accessible, interoperable, and
+    reusable. The authors highlight the opportunities and risks posed by open research
+    data (ORD). “However, minimal safeguards need to be put in place for open research
+    data to stay open. The policy challenge is how to avoid misuse by public and private
+    actors and dependability of all kind of providers.”
+
+    '
+  type:
+  - Journal Article
+- sys:
+    id: sUjvF209bTpF7GxTj0z74
+  authors: Larissa Fast
+  title: Data sharing between humanitarian organisations and donors
+  publication: The Norwegian Centre for Humanitarian Studies
+  pubDate: !ruby/object:DateTime 2022-04-24 00:00:00.000000000 Z
+  url: https://www.humanitarianstudies.no/resource/data-sharing-between-humanitarian-organisations-and-donors/
+  shortDescription: This paper “examines data sharing between humanitarian organisations
+    and donors, with a focus on governing frameworks and how these are implemented
+    and avenues for more responsible data sharing.” It seeks to identify new responsible
+    practices.
+  type:
+  - Paper
+- sys:
+    id: 1lUapJuRZMqapAtMriAY8y
+  authors: Martin Lnenicka, Anastasija Nikiforova, Mariusz Luterek, Otmane Azeroual,
+    Dandison Ukpabi, Visvaldis Valtenbergs, Renata Machova
+  title: 'Transparency of open data ecosystems in smart cities: Definition and assessment
+    of the maturity of transparency in 22 smart cities'
+  publication: Sustainable Cities and Society
+  pubDate: !ruby/object:DateTime 2022-04-19 00:00:00.000000000 Z
+  url: https://www.sciencedirect.com/science/article/abs/pii/S2210670722002281#!
+  shortDescription: 'The piece examines 34 smart city data portals across 24 cities
+    and assesses their maturity, identifying ways that future portals might be more
+    “sustainable, transparent, citizen-centered, and socially resilient.”
+
+    '
+  type:
+  - Journal Article
+- sys:
+    id: 1uOVNrbwKC6Lxu2gYpBKdQ
+  authors: N/A
+  title: Time to recognize authorship of open data
+  publication: Nature
+  pubDate: !ruby/object:DateTime 2022-04-07 00:00:00.000000000 Z
+  url: https://media.nature.com/original/magazine-assets/d41586-022-00921-x/d41586-022-00921-x.pdf
+  shortDescription: 'This article argues that “the open data revolution won’t happen
+    unless the research system values the sharing of data as much as authorship on
+    papers.” It urges researchers to credit all those who contribute their knowledge
+    to research output.
+
+    '
+  type:
+  - Magazine Article
+- sys:
+    id: 74MZnptZpAyEp4RpkVgtkV
+  authors: Renato A.F. Lima and colleagues
+  title: Making forest data fair and open
+  publication: Nature
+  pubDate: !ruby/object:DateTime 2022-04-11 00:00:00.000000000 Z
+  url: https://www.nature.com/articles/s41559-022-01738-7
+  shortDescription: 'This piece notes that “data on tropical forests are in high demand.
+    But ground forest measurements are hard to sustain and the people who make them
+    are extremely disadvantaged compared to those who use them.” The authors propose
+    a new approach focused on “the needs of data originators, and ensures users and
+    funders contribute properly.”
+
+    '
+  type:
+  - Journal Article
+- sys:
+    id: 4yQWlxMV4ybEAg19Wo5CxS
+  authors: Matthias Evers, Lucy Pérez, Lucas Robke, and Katarzyna Smietana
+  title: 'Better data for better therapies: The case for building health data platforms'
+  publication: McKinsey & Company
+  pubDate: !ruby/object:DateTime 2022-04-15 00:00:00.000000000 Z
+  url: https://www.mckinsey.com/industries/life-sciences/our-insights/better-data-for-better-therapies-the-case-for-building-health-data-platforms
+  shortDescription: 'This piece suggests that “health data platforms that participants
+    trust could bring an end to today’s reductionist approach to drug development,
+    revolutionizing our understanding of the disease.
+
+    '
+  type:
+  - Blog Post
+- sys:
+    id: 2tY2xQvbWiyEMUeC0q1fiu
+  authors: Matteo Nebbiai
+  title: 'Intermediaries do matter: voluntary standards and the Right to Data Portability'
+  publication: Internet Policy Review
+  pubDate: !ruby/object:DateTime 2022-04-12 00:00:00.000000000 Z
+  url: https://policyreview.info/articles/analysis/intermediaries-do-matter-voluntary-standards-and-right-data-portability
+  shortDescription: 'This piece describes an understudied application of the European
+    Union’s General Data Protection Regulation on data portability. It describes how
+    the Right to Data Portability framework’s wording “creates some “grey areas” that
+    allow data controllers a broad interpretation of the right” and “shows why the
+    regulatory initiatives affecting the interpretation of these “grey areas” can
+    be framed as “regulatory standard-setting (RSS) schemes."
+
+    '
+  type:
+  - Journal Article
+- sys:
+    id: 4m1mjZJSWnHjECSrXZ6wCk
+  authors: N/A
+  title: Open Data for Social Impact Framework
+  publication: Microsoft
+  pubDate: !ruby/object:DateTime 2022-03-21 00:00:00.000000000 Z
+  url: https://news.microsoft.com/open-data-social-impact-framework/
+  shortDescription: "The framework is “a tool leaders can use to put data to work
+    to solve the challenges most important to them.” It offers a way for organizations
+    to assess their infrastructure, understand the questions they want to answer with
+    data, assemble talent in their organization, and build community trust. The framework
+    synthesizes lessons learned from the GovLab’s Open Data Policy Lab initiative
+    and other efforts in the field.  \n"
+  type:
+  - Report
+- sys:
+    id: 5rGuv2GDepIDYy8RsFZ98Z
+  authors: João Marinotti
+  title: Data Types, Data Doubts & Data Trusts
+  publication: New York University Law Review Online
+  pubDate: !ruby/object:DateTime 2022-03-21 00:00:00.000000000 Z
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4058529
+  shortDescription: This article is an article describing the diversity of concepts
+    included in “data” and how these concepts require different governance regimes
+    in commerce, life, and law. It also argues that data trusts, as a form of governance,
+    need to ensure they can be recognized as a trust (of property) under the law of
+    the jurisdiction in which they operate.
+  type:
+  - Journal Article
+- sys:
+    id: 6YUzBf1jiY6z5r5kdc8Eco
+  authors: Max Kozlov
+  title: 'NIH issues a seismic mandate: share data publicly'
+  publication: Nature
+  pubDate: !ruby/object:DateTime 2022-02-16 00:00:00.000000000 Z
+  url: https://www.nature.com/articles/d41586-022-00402-1
+  shortDescription: The news item describes a new requirement by the US National Institutes
+    of Health that funded organizations include a data-management plan in their grant
+    applications. The author describes the move as one that could “set a global standard
+    for biomedical research.”
+  type:
+  - Magazine Article
+- sys:
+    id: 4IPtZQ3j0OxGkYUkgigayg
+  authors: Charlotte van Ooijen, Nathan da Silva Carvalho, Alice Iordache, David Osimo
+  title: Measuring Data Demand Within the Public Sector
+  publication: data.europa.eu
+  pubDate: !ruby/object:DateTime 2022-02-16 00:00:00.000000000 Z
+  url: https://data.europa.eu/sites/default/files/report/Discussion_Paper_Measuring_Data_Demand_Within_the_Public_Sector.pdf
+  shortDescription: The piece “provides an overview of the state-of-the-art of existing
+    approaches and indicators in the European open data landscape to assess public
+    institutions’ needs as data re-users.”
+  type:
+  - Paper
+- sys:
+    id: 1CKeh2gVXdVdYarM2OIKXQ
+  authors: N/A
+  title: Data Dissemination in the Digital Age
+  publication: PARIS21
+  pubDate: !ruby/object:DateTime 2021-11-23 00:00:00.000000000 Z
+  url: https://paris21.org/dataportals
+  shortDescription: This is a report on the state of data portals in national statistical
+    offices. The report “proposes a holistic method to evaluate data portals and proposes
+    recommendations to improve their use and function.”
+  type:
+  - Report
+- sys:
+    id: 93ZTkFVs4EwiHII9K5oak
+  authors: Alexander Kroll
+  title: 'Shared Measures: Collective Performance Data Use in Collaborations'
+  publication: Cambridge University Press
+  pubDate: !ruby/object:DateTime 2022-02-15 00:00:00.000000000 Z
+  url: https://docs.google.com/document/d/1NufCOAaOozOxee4TIQIgBTiq0jPPOHnjIpcmzisOazM/edit
+  shortDescription: 'This article examines how collaborations between the public sector
+    and private and nonprofit organizations can operate. The piece draws on a case
+    study in North Carolina to respond to the opioid epidemic to understand ideas
+    of “shared measures” and “collective data use.”
+
+    '
+  type:
+  - Journal Article
+- sys:
+    id: VsiAUcqIBbd6WB7NjT6Hj
+  authors: Brandie Nonnecke And Camille Carlton
+  title: EU and US legislation seek to open up digital platform data
+  publication: Science
+  pubDate: !ruby/object:DateTime 2022-02-10 00:00:00.000000000 Z
+  url: https://www.science.org/doi/full/10.1126/science.abl8537
+  shortDescription: 'The piece describes “two notable, legislative efforts aimed at
+    opening up platform data: the Digital Services Act (DSA), recently approved by
+    the European Parliament, and the Platform Accountability and Transparency Act
+    (PATA), recently proposed by several US senators.”
+
+    '
+  type:
+  - Journal Article
+- sys:
+    id: 4KhkbPt1mDAqVoohpsGIMQ
+  authors: Maxat Kassen
+  title: Open Data Governance and Its Actors
+  publication: Palgrave Macmillan
+  pubDate: !ruby/object:DateTime 2022-01-28 00:00:00.000000000 Z
+  url: https://link.springer.com/book/10.1007/978-3-030-92065-4
+  shortDescription: 'This piece examines the driving forces that initiate and advance
+    open data governance. It relies on theory and practice from Finland and Sweden
+    to illustrate these concepts.
+
+    '
+  type:
+  - Journal Article
+  theme:
+  - General
 projects:
 - sys:
     id: 4qXwV2Dbi8IOO8CO6uGCuK
