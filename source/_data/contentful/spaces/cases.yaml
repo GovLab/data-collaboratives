@@ -5455,7 +5455,7 @@ datacollaborative:
 - sys:
     id: 39L5I77SRtQkn3Iihawuze
   status: true
-  caseStudy: Driver's Seat Cooperative
+  caseStudy: The Drivers Cooperative
   sector:
   - Transportation
   - Infrastructure
@@ -5467,11 +5467,11 @@ datacollaborative:
   region: North America
   collaborativeType:
   - Public Interfaces
-  link: https://www.driversseat.co/
-  whatDataShared: 'Driver''s Seat collects data from on-demand drivers, and aggregates
-    and analyzes this data to deliver insights that help users understand mobility
-    logistics. Insights are also shared with city planners, to drive better infrastructure
-    and transportation planning. '
+  link: https://drivers.coop/
+  whatDataShared: 'The Drivers Cooperative collects data from on-demand drivers, and
+    aggregates and analyzes this data to deliver insights that help users understand
+    mobility logistics. Insights are also shared with city planners, to drive better
+    infrastructure and transportation planning. '
 - sys:
     id: 4sH8zYIiVHzTyG9wanBTjI
   status: true
@@ -6463,6 +6463,77 @@ datacollaborative:
     Innovation & Technology Fund (ITF) and the Information Technology
     Services (ITS) unit at HKU provided cloud resources for the Data
     Trust.
+- sys:
+    id: 988jy7S48TIvamLvDzgid
+  status: true
+  caseStudy: The Global Burden of Disease (GBD) study
+  sector:
+  - Health
+  sharedBy:
+  - the Institute for Health Metrics and Evaluation (IHME) at the University of Washington
+    on The Lancet
+  sharedWith:
+  - Public
+  - Researchers
+  region: Worldwide
+  collaborativeType:
+  - Public Interfaces
+  dataType:
+  - Observed Non-Personal Data
+  link: https://www.thelancet.com/gbd/about
+  whatDataShared: "With the vision to revolutionize data sharing in the realm of the
+    blue economy, HULed by the Institute for Health Metrics and Evaluation (IHME)
+    at the University of Washington, the GBD study shared their observational epidemiological
+    data with the Lancet, the international medical journal. The data entails global
+    estimates such as  “mortality and morbidity in 204 countries and territories,
+    369 diseases and injuries, and 87 risk factors,” which aims to improve accountability
+    by quantifying progress in global health. \n"
+- sys:
+    id: 4lD31QKx1CNeM38hrROQiy
+  status: true
+  caseStudy: The Ocean Data Action Coalition
+  sector:
+  - Environment
+  sharedBy:
+  - private sector
+  - governments
+  - and researchers
+  sharedWith:
+  - organizations
+  - governments
+  - researchers
+  region: Worldwide
+  collaborativeType:
+  - Trusted Intermediary
+  dataType:
+  - Observed Non-Personal Data
+  link: https://www.hubocean.earth/
+  whatDataShared: 'With the vision to revolutionize data sharing in the realm of the
+    blue economy, HUB Ocean and Microsoft are leading the Ocean Data Action Coalition.
+    In the current stage of development, the coalition aims to understand the barriers
+    of ocean data sharing, develop new business models, and create incentives for
+    data sharing. '
+- sys:
+    id: 1JuBUrxmP6MKc6ChUKX77r
+  status: true
+  caseStudy: PhonePe Pulse
+  sector:
+  - Telecommunications
+  - Economic Development
+  sharedBy:
+  - PhonePe
+  sharedWith:
+  - Public
+  region: South Asia
+  collaborativeType:
+  - Public Interfaces
+  dataType:
+  - Disclosed Non-Personal Data
+  link: https://www.phonepe.com/pulse/
+  whatDataShared: 'PhonePe Pulse, developed by PhonePe (India’s leading digital payment
+    tool), is an interactive geospatial platform with digital transaction data at
+    the district level. With a market share of 45%, the platform shows the digital
+    payment trends in the country, driving key insights and research. '
 events:
 - sys:
     id: uF3uaikYV2gWsckO8wYO2
@@ -12261,8 +12332,15 @@ resources:
     of Health that funded organizations include a data-management plan in their grant
     applications. The author describes the move as one that could “set a global standard
     for biomedical research.”
+  annotation: The news item describes a new requirement by the US National Institutes
+    of Health that funded organizations include a data-management plan in their grant
+    applications. The author describes the move as one that could “set a global standard
+    for biomedical research.”
   type:
   - Magazine Article
+  theme:
+  - In Practice
+  - Governance and Operations
 - sys:
     id: 4IPtZQ3j0OxGkYUkgigayg
   authors: Charlotte van Ooijen, Nathan da Silva Carvalho, Alice Iordache, David Osimo
@@ -12333,6 +12411,8 @@ resources:
   - Journal Article
   theme:
   - General
+  - In Practice
+  - Governance and Operations
 projects:
 - sys:
     id: 4qXwV2Dbi8IOO8CO6uGCuK
